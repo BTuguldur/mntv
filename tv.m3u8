@@ -6,14 +6,14 @@
 https://cdn4.skygo.mn/live/disk1/Skymedia/DASH-FTA/Skymedia.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/168/168-LOGO-m.png" group-title="Mongol",SkyLive
 https://cdn1.skygo.mn/live/disk1/SkyLive90/DASH-FTA/SkyLive90.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/345/86345-POSTER-m.jpg" group-title="Mongol",Наймаа
-https://cdn3.skygo.mn/vod/disk1/Naimaa04/_/DASH-FTA/Naimaa04.mpd&selected_id=avc1_3020091=2
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/371/86371-POSTER-m.jpg" group-title="Mongol",Эмэгтэйн Кейс
-https://cdn2.skygo.mn/vod/disk1/EmegteinCase03/_/DASH-FTA/EmegteinCase03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/694/87694-POSTER-m.jpg" group-title="Mongol",Амьдралын урт замд
+https://cdn3.skygo.mn/vod/disk1/AmidraliinUrt03/_/DASH-FTA/AmidraliinUrt03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/628/87628-POSTER-m.jpg" group-title="Mongol",13-р сар
+https://cdn3.skygo.mn/vod/disk1/13DahSar03/_/DASH-FTA/13DahSar03.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/626/82626-POSTER-m.jpg" group-title="Mongol",Миний Үзэсгэлэнт Дагуул
 https://cdn2.skygo.mn/vod/disk1/MiniiUzesgelentDaguul03/_/DASH-FTA/MiniiUzesgelentDaguul03.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/934/86934-POSTER-m.jpg" group-title="Mongol",Хүргэлт үнэгүй
-https://cdn2.skygo.mn/vod/disk1/HurgeltUnegui03/_/DASH-FTA/HurgeltUnegui03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/446/70446-POSTER-m.jpg" group-title="Mongol",Rogue One: A Star Wars Story
+https://cdn2.skygo.mn/vod/disk1/RogueOneAStarWarsStory201603/_/VOD-FOREIGN-DASH-FTA/RogueOneAStarWarsStory201603.mpd
 
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/232/57232-LOGO-m.png" group-title="Mongol", MongolHD plus 1
 https://cdn2.skygo.mn/live/disk1/VolumePlus/DASH-FTA/VolumePlus.mpd
