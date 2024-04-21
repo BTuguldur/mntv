@@ -273,12 +273,6 @@ https://live.mnb.mn/live/mnb_family.stream/playlist.m3u8
 https://10st.vcast.im/MYASIATV/TV5/playlist.m3u8
  
  
-#EXTINF:-1, radio="" tvg-logo="http://mntv.xp3.biz/tv/djing.png" group-title="Music",DJing Ibiza live
-https://www.djing.com/tv/d-27989-02.m3u8
-#EXTINF:-1, radio="" tvg-logo="http://mntv.xp3.biz/tv/djing.png" group-title="Music",DJing HOT live
-https://www.djing.com/tv/27989-03.m3u8
-#EXTINF:-1, radio="" tvg-logo="http://mntv.xp3.biz/tv/djing.png" group-title="Music",DJing Underground live
-https://www.djing.com/tv/u-27989-02.m3u8
 
 #EXTINF:-1, radio="" tvg-logo="https://www.desirewrites.com/wp-content/uploads/2021/02/desire-writes-logo@2x-2.png" group-title="Adult",Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
@@ -304,7 +298,6 @@ http://146.59.54.163/354/index.m3u8
 
 
  
- 
 #EXTINF:-1, radio="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png" group-title="News",Fasion tv Midnight HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png" group-title="News",Fasion pg16
@@ -318,20 +311,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 #EXTINF:-1, radio="" tvg-logo="https://i1.sndcdn.com/avatars-000599519394-hegjf1-t200x200.jpg" group-title="News",Kaloopy
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
  
-#EXTINF:-1, radio="" tvg-logo="http://1.bp.blogspot.com/-E-qvJLo_j1s/UB7Jd47Ro2I/AAAAAAAAATw/qQskQfN6tQ4/s320/miami-tv-logo-gif2_design.png" group-title="Adult",Miami TV (18+)
-http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1, radio="" tvg-logo="http://1.bp.blogspot.com/-E-qvJLo_j1s/UB7Jd47Ro2I/AAAAAAAAATw/qQskQfN6tQ4/s320/miami-tv-logo-gif2_design.png" group-title="Adult",Miami TV (Channel 18)
-https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
-#EXTINF:-1, radio="" tvg-logo="http://1.bp.blogspot.com/-E-qvJLo_j1s/UB7Jd47Ro2I/AAAAAAAAATw/qQskQfN6tQ4/s320/miami-tv-logo-gif2_design.png" group-title="Adult",Miami TV Latino
-https://5ee7c2b857b7f.streamlock.net/latino/smil:WEB/playlist.m3u8
-#EXTINF:-1, radio="" tvg-logo="http://1.bp.blogspot.com/-E-qvJLo_j1s/UB7Jd47Ro2I/AAAAAAAAATw/qQskQfN6tQ4/s320/miami-tv-logo-gif2_design.png" group-title="Adult",Miami TV (18+)
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
-#EXTINF:-1, radio="" tvg-logo="http://1.bp.blogspot.com/-E-qvJLo_j1s/UB7Jd47Ro2I/AAAAAAAAATw/qQskQfN6tQ4/s320/miami-tv-logo-gif2_design.png" group-title="Adult",Miami TV JennyLive
-https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://static.wixstatic.com/media/e55514_c076bf01e36c41859e7f014294d3b166~mv2.png" group-title="News",Nasa TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_500.m3u8
-
-
 #EXTINF:-1, tvg-logo="https://www.mnb.mn/images/mini/mradio.jpg" radio="true" group-title="Radio", Монголын радио
 https://live.mnb.mn/radio/radio1.stream_aac/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.mnb.mn/images/5.jpg" radio="true" group-title="Radio", P3 FM 100.9
