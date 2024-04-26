@@ -296,6 +296,8 @@ http://blacktv.syscdn.xyz:80/127185812199/275173326355/872?Billybob.Billybob.Bil
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/512px-Dorcel_TV.svg.png" group-title="Adult",Dorcel
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1, radio="" tvg-logo="https://epgx.site/p/sholk.png" group-title="Adult",Шелк
+http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 
 #EXTINF:-1, radio="" tvg-logo="https://play-lh.googleusercontent.com/aS49uYmwDcpKpMD_IHjTz288qx2wUk4InTzZHqFZ_yBefnLMcNKGh3C0w5Gg55VzhQI=s192-rw" group-title="Adult",MyCam Young
 http://live.mycamtv.com/young.m3u8
