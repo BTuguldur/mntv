@@ -165,16 +165,22 @@ https://live-hls-web-aje.getaj.net/alternative/AJE/03.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_9.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://cdn.teleon.tv/logo/fox_news_channel_transparent.png" group-title="Gadaad",Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist480p.m3u8
+#EXTINF:-1, radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png" group-title="Gadaad",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1, radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/220px-NBC_logo.svg.png" group-title="Gadaad",NBC
+https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
+#EXTINF:-1, radio="" tvg-logo="https://mir-s3-cdn-cf.behance.net/user/276/10dc1e1681627.6157382cafd3b.png" group-title="Gadaad",SKY news
+https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 
-#EXTINF:-1, radio="" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/HBO-logo.png" group-title="Gadaad",HBO
+#EXTINF:-1, radio="" tvg-logo="https://cordcutting.com/wp-content/uploads/2015/06/hbo-logo.png" group-title="Gadaad",HBO
 http://41.205.93.154/HBO/index.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/HBO-logo.png" group-title="Gadaad",HBO Plus
+#EXTINF:-1, radio="" tvg-logo="https://cordcutting.com/wp-content/uploads/2015/06/hbo-logo.png" group-title="Gadaad",HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/HBO-logo.png" group-title="Gadaad",HBO 2
+#EXTINF:-1, radio="" tvg-logo="https://cordcutting.com/wp-content/uploads/2015/06/hbo-logo.png" group-title="Gadaad",HBO 2
 http://170.254.18.106/HBO2/index.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/HBO-logo.png" group-title="Gadaad",HBO Family
+#EXTINF:-1, radio="" tvg-logo="https://cordcutting.com/wp-content/uploads/2015/06/hbo-logo.png" group-title="Gadaad",HBO Family
 http://170.254.18.106:80/HBO_FAMILY/index.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/HBO-logo.png" group-title="Gadaad",HBO Mundi
+#EXTINF:-1, radio="" tvg-logo="https://cordcutting.com/wp-content/uploads/2015/06/hbo-logo.png" group-title="Gadaad",HBO Mundi
 http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
 
 
