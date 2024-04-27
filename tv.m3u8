@@ -23,7 +23,7 @@ http://202.21.104.6:88/mongol-hd/index.m3u8
 https://cdn4.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/822/822-LOGO-m.png" group-title="Mongol", NTV
 https://cdn2.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/823/823-LOGO-m.png" group-title="Mongol", StarTV
+#EXTINF:-1, radio="" tvg-logo="https://mw.motv.mn/assets/channels/2021/07/23/22/channels_34-60fa30cd437c7.png" group-title="Mongol", StarTV
 https://cdn2.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd 
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/824/824-LOGO-m.png" tvg-name="UBS" group-title="Mongol", UBS
 https://cdn2.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
@@ -63,13 +63,13 @@ https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd
 https://cdn2.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/178/11178-LOGO-m.png" group-title="Mongol", MNB Ger bul
 https://cdn2.skygo.mn/live/disk1/MNB_Family/DASH-FTA/MNB_Family.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/841/841-LOGO-m.png" group-title="Mongol", MovieBox
+#EXTINF:-1, radio="" tvg-logo="https://www.ddishtv.mn:3000//u/channel/32_moviebox.jpg" group-title="Mongol", MovieBox
 https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/842/842-LOGO-m.png" group-title="Cartoon", Dream TV
 https://cdn2.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/445/50445-LOGO-m.png" group-title="Mongol", AsianBox
 https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/193/11193-LOGO-m.png" group-title="Mongol", BloombergTVMongolia
+#EXTINF:-1, radio="" tvg-logo="https://mw.motv.mn/assets/channels/2019/07/29/0/channels_38-5d3e58797d152.png" group-title="Mongol", BloombergTVMongolia
 https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/844/844-LOGO-m.png" group-title="Mongol", OnTV
 https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
@@ -87,7 +87,7 @@ https://cdn2.skygo.mn/live/disk1/TV6/DASH-FTA/TV6.mpd
 https://cdn4.skygo.mn/live/disk1/TV7/DASH-FTA/TV7.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/185/11185-LOGO-m.png" group-title="Mongol", Соён гэгээрүүлэгч
 https://cdn2.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/845/845-LOGO-m.png" group-title="Mongol", Parlament
+#EXTINF:-1, radio="" tvg-logo="https://www.ddishtv.mn:3000//u/channel/62_parliament.jpg" group-title="Mongol", Parlament
 https://cdn2.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/187/11187-LOGO-m.png" group-title="Mongol", TV4
 https://cdn2.skygo.mn/live/disk1/TV4/DASH-FTA/TV4.mpd
@@ -101,7 +101,8 @@ https://cdn4.skygo.mn/live/disk1/GTV/DASH-FTA/GTV.mpd
 https://cdn4.skygo.mn/live/disk1/MNplus91/DASH-FTA/MNplus91.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/145/11145-LOGO-m.png" group-title="Mongol", Хөгжим
 https://cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
-
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/372/89372-LOGO-m.png" group-title="Kids", Popcorn
+https://cdn4.skygo.mn/live/disk1/Popcorn/DASH-FTA/Popcorn.mpd
 
 
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/851/851-LOGO-m.png" group-title="Gadaad", Warner
@@ -116,11 +117,11 @@ https://cdn4.skygo.mn/live/disk1/ScienceSoutheast/LTV-FOREIGN-DASH-FTA/ScienceSo
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/741/56741-LOGO-m.png" group-title="Gadaad", Discovery Channel
 https://cdn4.skygo.mn/live/disk1/SoutheastAsia/LTV-FOREIGN-DASH-FTA/SoutheastAsia.mpd
 
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/867/867-LOGO-m.png" group-title="Gadaad", BBC Earth
+#EXTINF:-1, radio="" tvg-logo="https://i.pinimg.com/originals/7b/1f/78/7b1f789723817466b69d89d27d9b64b6.jpg" group-title="Gadaad", BBC Earth
 https://cdn2.skygo.mn/live/disk1/BBC_earth/DASH-FTA/BBC_earth.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/868/868-LOGO-m.png" group-title="Gadaad", BBC Livestyle
+#EXTINF:-1, radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png" group-title="Gadaad", BBC Livestyle
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/DASH-FTA/BBC_lifestyle.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/872/872-LOGO-m.png" group-title="Gadaad", Discovery Asia
+#EXTINF:-1, radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png" group-title="Gadaad", Discovery Asia
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/DASH-FTA/Discovery_Asia.mpd
 
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/745/56745-LOGO-m.png" group-title="Gadaad", Animal Planet
@@ -130,7 +131,7 @@ https://cdn4.skygo.mn/live/disk1/AnimalPlanet/LTV-FOREIGN-DASH-FTA/AnimalPlanet.
 https://cdn4.skygo.mn/live/disk1/CGTN_Doc/DASH-FTA/CGTN_Doc.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/875/875-LOGO-m.png" group-title="Gadaad", Trace Urban
 https://cdn4.skygo.mn/live/disk1/TraceUrbann/DASH-FTA/TraceUrbann.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/093/15093-LOGO-m.png" group-title="Gadaad",FasionTv
+#EXTINF:-1, radio="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png" group-title="Gadaad",FasionTv
 https://cdn4.skygo.mn/live/disk1/Fashion_TV/DASH-FTA/Fashion_TV.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/088/15088-LOGO-m.png" group-title="Gadaad",KBS Korea
 https://cdn2.skygo.mn/live/disk1/KBS_World_24/DASH-FTA/KBS_World_24.mpd
@@ -142,9 +143,9 @@ https://cdn2.skygo.mn/live/disk1/NHK_World_Premium/DASH-FTA/NHK_World_Premium.mp
 https://cdn2.skygo.mn/live/disk1/CCTV-10/DASH-FTA/CCTV-10.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/086/15086-LOGO-m.png" group-title="Gadaad",Arirang
 https://cdn2.skygo.mn/live/disk1/Arirang/DASH-FTA/Arirang.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/425/8425-LOGO-m.png" group-title="Gadaad",Bloomberg
+#EXTINF:-1, radio="" tvg-logo="https://www.digitaltveurope.com/files/2016/07/Bloomberg-Television.jpg" group-title="Gadaad",Bloomberg
 https://cdn4.skygo.mn/live/disk1/Bloomberg/DASH-FTA/Bloomberg.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/137/137-LOGO-m.png" group-title="Gadaad", BBC World News
+#EXTINF:-1, radio="" tvg-logo="https://toppng.com/uploads/preview/bbc-news-logo-png-bbc-world-channel-logo-11563049882jqyf96g6u7.png" group-title="Gadaad", BBC World News
 https://cdn2.skygo.mn/live/disk1/BBC_News/LTV-FOREIGN-DASH-FTA/BBC_News.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/869/869-LOGO-m.png" group-title="Gadaad", CNN
 https://cdn2.skygo.mn/live/disk1/CNNi/DASH-FTA/CNNi.mpd
@@ -166,7 +167,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1, radio="" tvg-logo="https://cdn.teleon.tv/logo/fox_news_channel_transparent.png" group-title="Gadaad",Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png" group-title="Gadaad",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/220px-NBC_logo.svg.png" group-title="Gadaad",NBC
 https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://mir-s3-cdn-cf.behance.net/user/276/10dc1e1681627.6157382cafd3b.png" group-title="Gadaad",SKY news
@@ -256,6 +257,7 @@ https://cdn2.skygo.mn/live/disk1/CCTV-14/DASH-FTA/CCTV-14.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/880/880-LOGO-m.png" group-title="Kids", Карусель
 https://cdn4.skygo.mn/live/disk1/Karusel/DASH-FTA/Karusel.mpd
 
+
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/854/854-LOGO-m.png" group-title="Opoc", OPT
 http://202.21.104.6:88/ort-tv/mono.m3u8
 
@@ -298,7 +300,10 @@ http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://epgx.site/p/sholk.png" group-title="Adult",Шелк
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
-
+#EXTINF:-1, radio="" tvg-logo="https://www.varnalan.com/wp-content/uploads/2022/05/passionxxx18.png" group-title="Adult",PassionXXX
+https://live.iptvxxx.net/passionxxxtv.m3u8
+#EXTINF:-1, radio="" tvg-logo="https://okteve.com/wp-content/uploads/media/a8f172f0712d0a728fe7cef4ecd19adc-520x293.jpeg" group-title="Adult",BabesTV
+http://tvmate.icu:8080/country/123456/159959?Billybob.says.hi.to.all.you.duds!
 #EXTINF:-1, radio="" tvg-logo="https://play-lh.googleusercontent.com/aS49uYmwDcpKpMD_IHjTz288qx2wUk4InTzZHqFZ_yBefnLMcNKGh3C0w5Gg55VzhQI=s192-rw" group-title="Adult",MyCam Young
 http://live.mycamtv.com/young.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://play-lh.googleusercontent.com/aS49uYmwDcpKpMD_IHjTz288qx2wUk4InTzZHqFZ_yBefnLMcNKGh3C0w5Gg55VzhQI=s192-rw" group-title="Adult",MyCam
@@ -341,9 +346,9 @@ https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=10762&type
 http://103.48.116.109:9000/;stream.mp3
 
  
-#EXTINF:-1, tvg-logo="https://static.ffh.de/fileadmin/_processed_/3/9/csm_ffh_600x600_cb97cc9a1b.jpg" radio="true" group-title="Radio", FFH
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/FFH-Logo_transparent.svg/2560px-FFH-Logo_transparent.svg.png" radio="true" group-title="Radio", FFH
 https://mp3.ffh.de/radioffh/hqlivestream.mp3
-#EXTINF:-1, tvg-logo="https://static.ffh.de/fileadmin/_processed_/b/f/csm_ffhplusxmas_600x600_a89943d546.jpg" radio="true" group-title="Radio", FFH weihnachtsradio
+#EXTINF:-1, tvg-logo="https://static.ffh.de/fileadmin/fm-dam/ffh.de/pages/musik/webradios/nologo/xmas_nologo_600x600.jpg" radio="true" group-title="Radio", FFH weihnachtsradio
 https://mp3.ffh.de/ffhchannels/hqxmas.mp3
 #EXTINF:-1, tvg-logo="https://static.ffh.de/fileadmin/_processed_/c/e/csm_top40_600x600_ohne_ffh_eaf2cc903a.jpg" radio="true" group-title="Radio", FFH iTunes Top 40
 https://mp3.ffh.de/ffhchannels/hqtop40.mp3
