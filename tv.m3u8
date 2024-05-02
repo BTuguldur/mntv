@@ -308,6 +308,8 @@ http://tvmate.icu:8080/country/123456/159959?Billybob.says.hi.to.all.you.duds!
 http://live.mycamtv.com/young.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://play-lh.googleusercontent.com/aS49uYmwDcpKpMD_IHjTz288qx2wUk4InTzZHqFZ_yBefnLMcNKGh3C0w5Gg55VzhQI=s192-rw" group-title="Adult",MyCam
 http://146.59.54.163/354/index.m3u8
+#EXTINF:-1, radio="" tvg-logo="https://play-lh.googleusercontent.com/aS49uYmwDcpKpMD_IHjTz288qx2wUk4InTzZHqFZ_yBefnLMcNKGh3C0w5Gg55VzhQI=s192-rw" group-title="Adult",MyCam Asian
+http://cdn.adultiptv.net/asian.m3u8
 
 
  
