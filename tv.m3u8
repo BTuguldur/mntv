@@ -6,14 +6,22 @@
 https://cdn4.skygo.mn/live/disk1/Skymedia/DASH-FTA/Skymedia.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/168/168-LOGO-m.png" group-title="Mongol",SkyLive
 https://cdn1.skygo.mn/live/disk1/SkyLive90/DASH-FTA/SkyLive90.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/694/87694-POSTER-m.jpg" group-title="Mongol",Амьдралын урт замд
-https://cdn3.skygo.mn/vod/disk1/AmidraliinUrt03/_/DASH-FTA/AmidraliinUrt03.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/628/87628-POSTER-m.jpg" group-title="Mongol",13-р сар
-https://cdn3.skygo.mn/vod/disk1/13DahSar03/_/DASH-FTA/13DahSar03.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/626/82626-POSTER-m.jpg" group-title="Mongol",Миний Үзэсгэлэнт Дагуул
-https://cdn2.skygo.mn/vod/disk1/MiniiUzesgelentDaguul03/_/DASH-FTA/MiniiUzesgelentDaguul03.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/446/70446-POSTER-m.jpg" group-title="Mongol",Rogue One: A Star Wars Story
-https://cdn2.skygo.mn/vod/disk1/RogueOneAStarWarsStory201603/_/VOD-FOREIGN-DASH-FTA/RogueOneAStarWarsStory201603.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/687/92687-POSTER-m.jpg" group-title="Mongol",Улаан нүдэн гараг: Үл танигдах нисдэг биет харсан нь
+https://cdn3.skygo.mn/vod/disk1/UlaanNudenGarigEP0103/_/DASH-FTA/UlaanNudenGarigEP0103.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/680/92680-POSTER-m.jpg" group-title="Mongol",Улаан нүдэн гараг: Уэндиго
+https://cdn3.skygo.mn/vod/disk1/UlaanNudenGarigEP0203/_/DASH-FTA/UlaanNudenGarigEP0203.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/664/92664-POSTER-m.jpg" group-title="Mongol",Улаан нүдэн гараг: 51-р бүс
+https://cdn3.skygo.mn/vod/disk1/UlaanNudenGarigEP0303/_/DASH-FTA/UlaanNudenGarigEP0303.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/938/92938-POSTER-m.jpg" group-title="Mongol",Улаан нүдэн гараг: Алмас
+https://cdn3.skygo.mn/vod/disk1/UlaanNudenGarigEP0403/_/DASH-FTA/UlaanNudenGarigEP0403.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/950/92950-POSTER-m.jpg" group-title="Mongol",Улаан нүдэн гараг: Харь гарагийнханд хулгайлагдсан нь
+https://cdn3.skygo.mn/vod/disk1/UlaanNudenGarigEP0503/_/DASH-FTA/UlaanNudenGarigEP0503.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/189/93189-POSTER-m.jpg" group-title="Mongol",Улаан нүдэн гараг: Хайлж буй хүн
+https://cdn3.skygo.mn/vod/disk1/UlaanNudenGarigEP0603/_/DASH-FTA/UlaanNudenGarigEP0603.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/180/93180-POSTER-m.jpg" group-title="Mongol",Улаан нүдэн гараг: Эмилиа Эархарт
+https://cdn3.skygo.mn/vod/disk1/UlaanNudenGarigEP0703/_/DASH-FTA/UlaanNudenGarigEP0703.mpd
+
+
 
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/232/57232-LOGO-m.png" group-title="Mongol", MongolHD plus 1
 https://cdn2.skygo.mn/live/disk1/VolumePlus/DASH-FTA/VolumePlus.mpd
