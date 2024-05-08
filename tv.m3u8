@@ -20,8 +20,8 @@ https://cdn3.skygo.mn/vod/disk1/UlaanNudenGarigEP0503/_/DASH-FTA/UlaanNudenGarig
 https://cdn3.skygo.mn/vod/disk1/UlaanNudenGarigEP0603/_/DASH-FTA/UlaanNudenGarigEP0603.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/180/93180-POSTER-m.jpg" group-title="Mongol",Улаан нүдэн гараг: Эмилиа Эархарт
 https://cdn3.skygo.mn/vod/disk1/UlaanNudenGarigEP0703/_/DASH-FTA/UlaanNudenGarigEP0703.mpd
-
-
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/238/93238-POSTER-m.jpg" group-title="Mongol",MadamWeb
+https://cdn3.skygo.mn/vod/disk1/MadameWeb03/_/VOD-FOREIGN-DASH-FTA/MadameWeb03.mpd
 
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/232/57232-LOGO-m.png" group-title="Mongol", MongolHD plus 1
 https://cdn2.skygo.mn/live/disk1/VolumePlus/DASH-FTA/VolumePlus.mpd
