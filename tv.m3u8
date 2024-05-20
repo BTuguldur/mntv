@@ -6,8 +6,8 @@
 https://cdn4.skygo.mn/live/disk1/Skymedia/DASH-FTA/Skymedia.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/168/168-LOGO-m.png" group-title="Mongol",SkyLive
 https://cdn1.skygo.mn/live/disk1/SkyLive90/DASH-FTA/SkyLive90.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/653/93653-POSTER-m.jpg" group-title="Mongol",MadamWeb
-https://cdn3.skygo.mn/vod/disk1/OurSeason03/_/VOD-FOREIGN-DASH-FTA/OurSeason03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/724/93724-POSTER-m.jpg" group-title="Mongol",Eun Ha Soo
+https://cdn2.skygo.mn/vod/disk1/EunHaSoo03/_/VOD-FOREIGN-DASH-FTA/EunHaSoo03.mpd
 
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/232/57232-LOGO-m.png" group-title="Mongol", MongolHD plus 1
 https://cdn2.skygo.mn/live/disk1/VolumePlus/DASH-FTA/VolumePlus.mpd
