@@ -6,8 +6,17 @@
 https://cdn4.skygo.mn/live/disk1/Skymedia/DASH-FTA/Skymedia.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/168/168-LOGO-m.png" group-title="Mongol",SkyLive
 https://cdn1.skygo.mn/live/disk1/SkyLive90/DASH-FTA/SkyLive90.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/724/93724-POSTER-m.jpg" group-title="Mongol",Eun Ha Soo
-https://cdn2.skygo.mn/vod/disk1/EunHaSoo03/_/VOD-FOREIGN-DASH-FTA/EunHaSoo03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/772/93772-POSTER-m.jpg" group-title="Mongol",Hairiin geree
+https://cdn2.skygo.mn/vod/disk1/HairiinGeree03/_/DASH-FTA/HairiinGeree03.mpd
+
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/415/93415-POSTER-m.jpg" group-title="Mongol",Чөтгөрийн гурвалжин
+https://cdn2.skygo.mn/vod/disk1/UlaanNudenGarigEP0803/_/DASH-FTA/UlaanNudenGarigEP0803.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/395/93395-POSTER-m.jpg" group-title="Mongol",Бермудын гурвалжин
+https://cdn2.skygo.mn/vod/disk1/UlaanNudenGarigEP0903/_/DASH-FTA/UlaanNudenGarigEP0903.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/800/93800-POSTER-m.jpg" group-title="Mongol",Атлантис
+https://cdn2.skygo.mn/vod/disk1/UlaanNudenGarigEP1003/_/DASH-FTA/UlaanNudenGarigEP1003.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/789/93789-POSTER-m.jpg" group-title="Mongol",Тунгусын ойд болсон хэрэг
+https://cdn2.skygo.mn/vod/disk1/UlaanNudenGarigEP1103/_/DASH-FTA/UlaanNudenGarigEP1103.mpd
 
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/232/57232-LOGO-m.png" group-title="Mongol", MongolHD plus 1
 https://cdn2.skygo.mn/live/disk1/VolumePlus/DASH-FTA/VolumePlus.mpd
@@ -298,10 +307,6 @@ http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 https://live.iptvxxx.net/passionxxxtv.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://okteve.com/wp-content/uploads/media/a8f172f0712d0a728fe7cef4ecd19adc-520x293.jpeg" group-title="Adult",BabesTV
 http://tvmate.icu:8080/country/123456/159959?Billybob.says.hi.to.all.you.duds!
-#EXTINF:-1, radio="" tvg-logo="https://play-lh.googleusercontent.com/aS49uYmwDcpKpMD_IHjTz288qx2wUk4InTzZHqFZ_yBefnLMcNKGh3C0w5Gg55VzhQI=s192-rw" group-title="Adult",MyCam Young
-http://live.mycamtv.com/young.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://play-lh.googleusercontent.com/aS49uYmwDcpKpMD_IHjTz288qx2wUk4InTzZHqFZ_yBefnLMcNKGh3C0w5Gg55VzhQI=s192-rw" group-title="Adult",MyCam
-http://146.59.54.163/354/index.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://play-lh.googleusercontent.com/aS49uYmwDcpKpMD_IHjTz288qx2wUk4InTzZHqFZ_yBefnLMcNKGh3C0w5Gg55VzhQI=s192-rw" group-title="Adult",MyCam Blonde (720p)
 http://cdn.adultiptv.net/blonde.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://play-lh.googleusercontent.com/aS49uYmwDcpKpMD_IHjTz288qx2wUk4InTzZHqFZ_yBefnLMcNKGh3C0w5Gg55VzhQI=s192-rw" group-title="Adult",MyCam Blowjob (720p)
