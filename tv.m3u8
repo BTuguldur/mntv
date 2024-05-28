@@ -12,6 +12,10 @@ https://cdn3.skygo.mn/vod/disk1/CitizenOfMold03/_/VOD-FOREIGN-DASH-FTA/CitizenOf
 https://cdn3.skygo.mn/vod/disk1/Timuchin03/_/VOD-FOREIGN-DASH-FTA/Timuchin03.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/653/38653-POSTER-m.jpg" group-title="Mongol",Stalingrad
 https://cdn3.skygo.mn/vod/disk1/Stalingrad03/_/VOD-FOREIGN-DASH-FTA/Stalingrad03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/278/97278-POSTER-m.jpg" group-title="Mongol",95 zuudnii hun
+https://cdn3.skygo.mn/vod/disk1/95ZuudniiHun03/_/DASH-FTA/95ZuudniiHun03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/303/97303-POSTER-m.jpg" group-title="Mongol",DUNE 2
+https://cdn3.skygo.mn/vod/disk1/DunePart203/_/VOD-FOREIGN-DASH-FTA/DunePart203.mpd
 
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/789/93789-POSTER-m.jpg" group-title="Mongol",Тунгусын ойд болсон хэрэг
 https://cdn2.skygo.mn/vod/disk1/UlaanNudenGarigEP1103/_/DASH-FTA/UlaanNudenGarigEP1103.mpd
