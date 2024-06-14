@@ -6,15 +6,16 @@
 https://cdn4.skygo.mn/live/disk1/Skymedia/DASH-FTA/Skymedia.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/168/168-LOGO-m.png" group-title="Mongol",SkyLive
 https://cdn1.skygo.mn/live/disk1/SkyLive90/DASH-FTA/SkyLive90.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/230/95230-POSTER-m.jpg" group-title="Mongol",Citizen of a Kind
-https://cdn3.skygo.mn/vod/disk1/CitizenOfMold03/_/VOD-FOREIGN-DASH-FTA/CitizenOfMold03.mpd
-
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/278/97278-POSTER-m.jpg" group-title="Mongol",95 zuudnii hun
-https://cdn3.skygo.mn/vod/disk1/95ZuudniiHun03/_/DASH-FTA/95ZuudniiHun03.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/303/97303-POSTER-m.jpg" group-title="Mongol",DUNE 2
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/954/99954-POSTER-m.jpg" group-title="Movie",Black Bits
+https://cdn3.skygo.mn/vod/disk1/BlackBits03/_/VOD-FOREIGN-DASH-FTA/BlackBits03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/901/99901-POSTER-m.jpg" group-title="Movie",Arthur The King
+https://cdn2.skygo.mn/vod/disk1/ArthurTheKing03/_/VOD-FOREIGN-DASH-FTA/ArthurTheKing03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/966/99966-POSTER-m.jpg" group-title="Movie",Backkom Bear Mars Mission
+https://cdn3.skygo.mn/vod/disk1/BackkomBearMarsMission03/_/VOD-FOREIGN-DASH-FTA/BackkomBearMarsMission03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/303/97303-POSTER-m.jpg" group-title="Movie",DUNE 2
 https://cdn3.skygo.mn/vod/disk1/DunePart203/_/VOD-FOREIGN-DASH-FTA/DunePart203.mpd
 
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/339/97339-POSTER-m.jpg" group-title="Mongol",Элсурхт Нобиле
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/339/97339-POSTER-m.jpg" group-title="Movie",Элсурхт Нобиле
 https://cdn2.skygo.mn/vod/disk1/UlaanNudenGarigEP1203/_/DASH-FTA/UlaanNudenGarigEP1203.mpd
 
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/232/57232-LOGO-m.png" group-title="Mongol", MongolHD plus 1
