@@ -14,9 +14,11 @@ https://cdn2.skygo.mn/vod/disk1/ArthurTheKing03/_/VOD-FOREIGN-DASH-FTA/ArthurThe
 https://cdn3.skygo.mn/vod/disk1/BackkomBearMarsMission03/_/VOD-FOREIGN-DASH-FTA/BackkomBearMarsMission03.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/303/97303-POSTER-m.jpg" group-title="Movie",DUNE 2
 https://cdn3.skygo.mn/vod/disk1/DunePart203/_/VOD-FOREIGN-DASH-FTA/DunePart203.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/157/100157-POSTER-m.jpg" group-title="Movie",Boat
+https://cdn3.skygo.mn/vod/disk1/TheBoat03/_/VOD-FOREIGN-DASH-FTA/TheBoat03.mpd
 
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/339/97339-POSTER-m.jpg" group-title="Movie",Элсурхт Нобиле
-https://cdn2.skygo.mn/vod/disk1/UlaanNudenGarigEP1203/_/DASH-FTA/UlaanNudenGarigEP1203.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/339/97339-POSTER-m.jpg" group-title="Movie",Bermud 3jin
+https://cdn2.skygo.mn/vod/disk1/UlaanNudenGarigEP1303/_/DASH-FTA/UlaanNudenGarigEP1303.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/339/97339-POSTER-m.jpg" group-title="Movie",Yag Tuun shig 6
 https://cdn2.skygo.mn/vod/disk1/YagTuunShigS07E0603/_/DASH-FTA/YagTuunShigS07E0603.mpd
 
