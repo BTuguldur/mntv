@@ -24,8 +24,8 @@ https://cdn2.skygo.mn/vod/disk1/YagTuunShigS07E0603/_/DASH-FTA/YagTuunShigS07E06
 
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/232/57232-LOGO-m.png" group-title="Mongol", MongolHD plus 1
 https://cdn2.skygo.mn/live/disk1/VolumePlus/DASH-FTA/VolumePlus.mpd
-#EXTINF:-1, radio="" tvg-logo="https://cdn.greensoft.mn/uploads/site/474/site_config/logo/bd64dd52592f0a531021afba3c1c5c8841594439.png" group-title="Mongol", MongolTV
-http://202.21.104.6:88/mongol-hd/index.m3u8
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/796/102796-LOGO-m.png" group-title="Mongol", MongolTV
+https://cdn4.skygo.mn/live/disk1/Mongol_HD/DASH-FTA/Mongol_HD.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/821/821-LOGO-m.png" group-title="Mongol",MNB
 https://cdn4.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/822/822-LOGO-m.png" group-title="Mongol", NTV
@@ -287,7 +287,8 @@ https://live.mnb.mn/live/mnb_family.stream/playlist.m3u8
 #EXTINF:-1, radio="" tvg-logo="http://mntv.xp3.biz/tv/tv5.png" group-title="Mongol", TV5 (tv5.mn)
 https://10st.vcast.im/MYASIATV/TV5/playlist.m3u8
  
- 
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/797/102797-LOGO-m.png" group-title="Adult",Babes TV
+https://cdn4.skygo.mn/live/disk1/Babes/LTV-FOREIGN-DASH-FTA/Babes.mpd 
 
 #EXTINF:-1, radio="" tvg-logo="https://www.desirewrites.com/wp-content/uploads/2021/02/desire-writes-logo@2x-2.png" group-title="Adult",Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
