@@ -6,12 +6,14 @@
 https://cdn4.skygo.mn/live/disk1/Skymedia/DASH-FTA/Skymedia.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/168/168-LOGO-m.png" group-title="Mongol",SkyLive
 https://cdn1.skygo.mn/live/disk1/SkyLive90/DASH-FTA/SkyLive90.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/858/107858-POSTER-m.jpg" group-title="Movie",Five Hundred Miles
+https://cdn2.skygo.mn/vod/disk1/FiveHundredMiles03/_/VOD-FOREIGN-DASH-FTA/FiveHundredMiles03.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/193/107193-POSTER-m.jpg" group-title="Movie",Post Truth
 https://cdn3.skygo.mn/vod/disk1/PostTruth03/_/VOD-FOREIGN-DASH-FTA/PostTruth03.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/234/107234-POSTER-m.jpg" group-title="Movie",Tigers Trigger
 https://cdn2.skygo.mn/vod/disk1/TigersTrigger03/_/VOD-FOREIGN-DASH-FTA/TigersTrigger03.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/169/107169-POSTER-m.jpg" group-title="Movie",Furiosa: A Mad Max Saga
-https://cdn3.skygo.mn/vod/disk1/Furiosa03/_/VOD-FOREIGN-DASH-FTA/Furiosa03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/759/107759-POSTER-m.jpg" group-title="Movie",12.12 The Day
+https://cdn3.skygo.mn/vod/disk1/1212TheDay02/_/VOD-FOREIGN-DASH-FTA/1212TheDay03.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/303/97303-POSTER-m.jpg" group-title="Movie",DUNE 2
 https://cdn3.skygo.mn/vod/disk1/DunePart203/_/VOD-FOREIGN-DASH-FTA/DunePart203.mpd
 
