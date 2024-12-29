@@ -2,6 +2,8 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:8
 #EXT-X-MEDIA-SEQUENCE:2680
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Venom
+https://cdn3.skygo.mn/vod/disk1/VenomTheLastDance03/_/VOD-FOREIGN-DASH-FTA/VenomTheLastDance03.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Mongol",GoPlus
 https://cdn4.skygo.mn/live/disk1/Skymedia/DASH-FTA/Skymedia.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/168/168-LOGO-m.png" group-title="Mongol",SkyLive
@@ -299,6 +301,8 @@ http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://www.varnalan.com/wp-content/uploads/2022/05/passionxxx18.png" group-title="Adult",PassionXXX
 https://live.iptvxxx.net/passionxxxtv.m3u8
+#EXTINF:-1, radio="" tvg-logo="https://okteve.com/wp-content/uploads/media/a8f172f0712d0a728fe7cef4ecd19adc-520x293.jpeg" group-title="Adult",BabesTV
+http://tvmate.icu:8080/country/123456/159959?Billybob.says.hi.to.all.you.duds!
 #EXTINF:-1, radio="" tvg-logo="https://play-lh.googleusercontent.com/aS49uYmwDcpKpMD_IHjTz288qx2wUk4InTzZHqFZ_yBefnLMcNKGh3C0w5Gg55VzhQI=s192-rw" group-title="Adult",MyCam Blonde (720p)
 http://cdn.adultiptv.net/blonde.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://play-lh.googleusercontent.com/aS49uYmwDcpKpMD_IHjTz288qx2wUk4InTzZHqFZ_yBefnLMcNKGh3C0w5Gg55VzhQI=s192-rw" group-title="Adult",MyCam Blowjob (720p)
