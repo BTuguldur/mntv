@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:8
 #EXT-X-MEDIA-SEQUENCE:2680
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Venom
-https://cdn3.skygo.mn/vod/disk1/VenomTheLastDance03/_/VOD-FOREIGN-DASH-FTA/VenomTheLastDance03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",LoveInTheBigCity
+https://cdn3.skygo.mn/vod/disk1/LoveInTheBigCity03/_/VOD-FOREIGN-DASH-FTA/LoveInTheBigCity03.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Mongol",GoPlus
 https://cdn4.skygo.mn/live/disk1/Skymedia/DASH-FTA/Skymedia.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/168/168-LOGO-m.png" group-title="Mongol",SkyLive
