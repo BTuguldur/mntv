@@ -81,10 +81,10 @@ https://cdn2.skygo.mn/live/disk1/TV6/DASH-FTA/TV6.mpd
 https://cdn4.skygo.mn/live/disk1/TV7/DASH-FTA/TV7.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/185/11185-LOGO-m.png" group-title="Монгол сувгууд", Соён гэгээрүүлэгч
 https://cdn2.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.mpd
-#EXTINF:-1, tvg-id="Парламент телевиз" radio="" tvg-logo="https://www.ddishtv.mn:3000//u/channel/62_parliament.jpg" group-title="Монгол сувгууд",Парламент телевиз
+#EXTINF:-1, tvg-id="Парламент телевиз" radio="" tvg-logo="https://www.goplus.mn/images/repository/845/845-LOGO-m.png" group-title="Монгол сувгууд",Парламент телевиз
 https://cdn2.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/187/11187-LOGO-m.png" group-title="Монгол сувгууд", TV4
-https://cdn2.skygo.mn/live/disk1/TV4/DASH-FTA/TV4.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/204/115204-LOGO-m.png" group-title="Монгол сувгууд", XTV
+https://cdn2.skygo.mn/live/disk1/XTV/DASH-FTA/XTV.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/846/846-LOGO-m.png" group-title="Монгол сувгууд", Inner Mongolia
 https://cdn4.skygo.mn/live/disk1/NeigMGL/DASH-FTA/NeigMGL.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/882/882-LOGO-m.png" group-title="Монгол сувгууд", Auto
@@ -169,7 +169,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 #EXTINF:-1, radio="" tvg-logo="https://mir-s3-cdn-cf.behance.net/user/276/10dc1e1681627.6157382cafd3b.png" group-title="Gadaad",SKY news
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
 #EXTINF:-1, radio="" tvg-logo="https://cordcutting.com/wp-content/uploads/2015/06/hbo-logo.png" group-title="Gadaad",HBO
-http://41.205.93.154/HBO/index.m3u8
+http://170.254.18.106/HBO/index.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://cordcutting.com/wp-content/uploads/2015/06/hbo-logo.png" group-title="Gadaad",HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://cordcutting.com/wp-content/uploads/2015/06/hbo-logo.png" group-title="Gadaad",HBO 2
