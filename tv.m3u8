@@ -1,6 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BTuguldur/epgmn/refs/heads/main/epg.xml"
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Venom
-https://cdn3.skygo.mn/vod/disk1/VenomTheLastDance03/_/VOD-FOREIGN-DASH-FTA/VenomTheLastDance03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",FlightRisk
+https://cdn3.skygo.mn/vod/disk1/FlightRisk03/_/VOD-FOREIGN-DASH-FTA/FlightRisk03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Sam Bahadur
+https://cdn2.skygo.mn/vod/disk1/SamBahadur03/_/VOD-FOREIGN-DASH-FTA/SamBahadur03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",FireFighters
+https://cdn2.skygo.mn/vod/disk1/FireFighters03/_/VOD-FOREIGN-DASH-FTA/FireFighters03.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Монгол сувгууд",GoPlus
 https://cdn4.skygo.mn/live/disk1/Skymedia/DASH-FTA/Skymedia.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/168/168-LOGO-m.png" group-title="Монгол сувгууд",SkyLive
@@ -169,7 +173,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 #EXTINF:-1, radio="" tvg-logo="https://mir-s3-cdn-cf.behance.net/user/276/10dc1e1681627.6157382cafd3b.png" group-title="Gadaad",SKY news
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
 #EXTINF:-1, radio="" tvg-logo="https://cordcutting.com/wp-content/uploads/2015/06/hbo-logo.png" group-title="Gadaad",HBO
-http://170.254.18.106/HBO/index.m3u8
+http://170.254.18.106/HBO1/index.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://cordcutting.com/wp-content/uploads/2015/06/hbo-logo.png" group-title="Gadaad",HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://cordcutting.com/wp-content/uploads/2015/06/hbo-logo.png" group-title="Gadaad",HBO 2
@@ -258,19 +262,19 @@ http://202.21.104.6:88/ort-tv/mono.m3u8
 
 
 #EXTINF:-1, radio="" tvg-logo="https://www.mnb.mn/images/mini/tv.png" group-title="Монгол сувгууд",Монголын Үндэсний Олон Нийтийн Телевиз /web/
-https://live3.mnb.mn/live/mnb.stream/playlist.m3u8
+https://live.mnb.mn/hls/mnb.stream.m3u8
  
 #EXTINF:-1, radio="" tvg-logo="https://www.mnb.mn/images/mini/mnews.png" group-title="Монгол сувгууд",MNB News /web/
-https://live.mnb.mn/live/mn2.stream/playlist.m3u8
+https://live.mnb.mn/hls/mn2.stream.m3u8
 
 #EXTINF:-1, radio="" tvg-logo="https://www.mnb.mn/images/6.jpg" group-title="Монгол сувгууд",MNB Sport /web/
-https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 
 #EXTINF:-1, radio="" tvg-logo="https://www.mnb.mn/images/3.jpg" group-title="Монгол сувгууд",MNB World /web/
-https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
+https://live.mnb.mn/hls/mnb_world.stream.m3u8
 
 #EXTINF:-1, radio="" tvg-logo="https://news.mn/wp-content/uploads/2021/04/1-500x254.jpg" group-title="Монгол сувгууд",MNB гэр бүл /web/
-https://live.mnb.mn/live/mnb_family.stream/playlist.m3u8
+https://live.mnb.mn/hls/mnb_family.stream.m3u8
  
 #EXTINF:-1, radio="" tvg-logo="http://mntv.xp3.biz/tv/tv5.png" group-title="Монгол сувгууд", TV5 (tv5.mn)
 https://10st.vcast.im/MYASIATV/TV5/playlist.m3u8
@@ -289,7 +293,7 @@ http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://i.imgur.com/aBa7eoE.png" group-title="Adult",Extasy
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://i.imgur.com/clpxgYh.png" group-title="Adult",Playboy
-http://blacktv.syscdn.xyz:80/127185812199/275173326355/872?Billybob.Billybob.Billybob!
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://logowik.com/content/uploads/images/316_brazzers.jpg" group-title="Adult",Brazzers
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/512px-Dorcel_TV.svg.png" group-title="Adult",Dorcel
@@ -306,7 +310,6 @@ http://cdn.adultiptv.net/blonde.m3u8
 http://cdn.adultiptv.net/blowjob.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://play-lh.googleusercontent.com/aS49uYmwDcpKpMD_IHjTz288qx2wUk4InTzZHqFZ_yBefnLMcNKGh3C0w5Gg55VzhQI=s192-rw" group-title="Adult",MyCam Brunette (720p)
 http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://play-lh.googleusercontent.com/aS49uYmwDcpKpMD_IHjTz288qx2wUk4InTzZHqFZ_yBefnLMcNKGh3C0w5Gg55VzhQI=s192-rw" group-title="Adult",MyCam Compilation (720p),http://cdn.adultiptv.net/compilation.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://play-lh.googleusercontent.com/aS49uYmwDcpKpMD_IHjTz288qx2wUk4InTzZHqFZ_yBefnLMcNKGh3C0w5Gg55VzhQI=s192-rw" group-title="Adult",MyCam Hardcore (720p)
 http://cdn.adultiptv.net/hardcore.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://play-lh.googleusercontent.com/aS49uYmwDcpKpMD_IHjTz288qx2wUk4InTzZHqFZ_yBefnLMcNKGh3C0w5Gg55VzhQI=s192-rw" group-title="Adult",MyCam Interracial (720p)
