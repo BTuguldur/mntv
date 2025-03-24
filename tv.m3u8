@@ -172,15 +172,15 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
 #EXTINF:-1, radio="" tvg-logo="https://mir-s3-cdn-cf.behance.net/user/276/10dc1e1681627.6157382cafd3b.png" group-title="Gadaad",SKY news
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
-#EXTINF:-1, radio="" tvg-logo="https://cordcutting.com/wp-content/uploads/2015/06/hbo-logo.png" group-title="Gadaad",HBO
-http://170.254.18.106/HBO1/index.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://cordcutting.com/wp-content/uploads/2015/06/hbo-logo.png" group-title="Gadaad",HBO Plus
+#EXTINF:-1, radio="" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg" group-title="Gadaad",HBO
+http://170.254.18.106/HBO_SIG/index.m3u8
+#EXTINF:-1, radio="" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg" group-title="Gadaad",HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://cordcutting.com/wp-content/uploads/2015/06/hbo-logo.png" group-title="Gadaad",HBO 2
+#EXTINF:-1, radio="" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg" group-title="Gadaad",HBO 2
 http://170.254.18.106/HBO2/index.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://cordcutting.com/wp-content/uploads/2015/06/hbo-logo.png" group-title="Gadaad",HBO Family
+#EXTINF:-1, radio="" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg" group-title="Gadaad",HBO Family
 http://170.254.18.106:80/HBO_FAMILY/index.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://cordcutting.com/wp-content/uploads/2015/06/hbo-logo.png" group-title="Gadaad",HBO Mundi
+#EXTINF:-1, radio="" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg" group-title="Gadaad",HBO Mundi
 http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
 
 
@@ -223,21 +223,20 @@ https://cdn4.skygo.mn/live/disk1/Telecafe/DASH-FTA/Telecafe.mpd
 https://cdn4.skygo.mn/live/disk1/Match_Planeta/DASH-FTA/Match_Planeta.mpd
 
 
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/680/120680-LOGO-m.png" group-title="Sport",Premier Sport 1
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/680/120680-LOGO-m.png" group-title="Sport",PSN1
 https://cdn4.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/681/120681-LOGO-m.png" group-title="Sport",Premier Sport 2
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/681/120681-LOGO-m.png" group-title="Sport",PSN2
 https://cdn2.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/682/120682-LOGO-m.png" group-title="Sport",Premier Sport 3
-https://cdn2.skygo.mn/live/disk1/SPSWORLD/DASH-FTA/SPSWORLD.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/683/120683-LOGO-m.png" group-title="Sport",Premier Sport 4
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/682/120682-LOGO-m.png" group-title="Sport",PSN3
+https://cdn4.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/683/120683-LOGO-m.png" group-title="Sport",PSN4
 https://cdn2.skygo.mn/live/disk1/SPSFight/DASH-FTA/SPSFight.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/684/120684-LOGO-m.png" group-title="Sport",Premier Sport 5
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/684/120684-LOGO-m.png" group-title="Sport",PSN5
 https://cdn2.skygo.mn/live/disk1/SPSPlus/DASH-FTA/SPSPlus.mpd
 
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/684/120684-LOGO-m.png" group-title="Sport",Premier Sport 5
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/684/120684-LOGO-m.png" group-title="Sport",PSN5 /backup/
 http://202.21.104.6:88/sps-plus/index.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/682/120682-LOGO-m.png" group-title="Sport",Premier Sport 3
-http://202.21.104.6:88/sps-world/index.m3u8
+
 
 
 
