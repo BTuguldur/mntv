@@ -3,8 +3,8 @@
 https://cdn3.skygo.mn/vod/disk1/FlightRisk03/_/VOD-FOREIGN-DASH-FTA/FlightRisk03.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Sam Bahadur
 https://cdn2.skygo.mn/vod/disk1/SamBahadur03/_/VOD-FOREIGN-DASH-FTA/SamBahadur03.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",FireFighters
-https://cdn2.skygo.mn/vod/disk1/FireFighters03/_/VOD-FOREIGN-DASH-FTA/FireFighters03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Rich Fly
+https://cdn3.skygo.mn/vod/disk1/RichFlu202403/_/VOD-FOREIGN-DASH-FTA/RichFlu202403.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Монгол сувгууд",GoPlus
 https://cdn4.skygo.mn/live/disk1/Skymedia/DASH-FTA/Skymedia.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/168/168-LOGO-m.png" group-title="Монгол сувгууд",SkyLive
