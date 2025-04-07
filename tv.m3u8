@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BTuguldur/epgmn/refs/heads/main/epg.xml"
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",FlightRisk
-https://cdn3.skygo.mn/vod/disk1/FlightRisk03/_/VOD-FOREIGN-DASH-FTA/FlightRisk03.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Sam Bahadur
-https://cdn2.skygo.mn/vod/disk1/SamBahadur03/_/VOD-FOREIGN-DASH-FTA/SamBahadur03.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Rich Fly
-https://cdn3.skygo.mn/vod/disk1/RichFlu202403/_/VOD-FOREIGN-DASH-FTA/RichFlu202403.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Goolingoo
+https://cdn3.skygo.mn/vod/disk1/Goolingoo03/_/DASH-FTA/Goolingoo03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Forbidden Fairytaile
+https://cdn3.skygo.mn/vod/disk1/ForbiddenFairytaile03/_/VOD-FOREIGN-DASH-FTA/ForbiddenFairytaile03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Holy Punch
+https://cdn2.skygo.mn/vod/disk1/HolyPunch03/_/VOD-FOREIGN-DASH-FTA/HolyPunch03.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Монгол сувгууд",GoPlus
 https://cdn4.skygo.mn/live/disk1/Skymedia/DASH-FTA/Skymedia.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/168/168-LOGO-m.png" group-title="Монгол сувгууд",SkyLive
