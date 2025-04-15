@@ -3,8 +3,9 @@
 https://cdn3.skygo.mn/vod/disk1/Goolingoo03/_/DASH-FTA/Goolingoo03.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Forbidden Fairytaile
 https://cdn3.skygo.mn/vod/disk1/ForbiddenFairytaile03/_/VOD-FOREIGN-DASH-FTA/ForbiddenFairytaile03.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Holy Punch
-https://cdn2.skygo.mn/vod/disk1/HolyPunch03/_/VOD-FOREIGN-DASH-FTA/HolyPunch03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Infinite
+https://cdn2.skygo.mn/vod/disk1/Infinite03/_/VOD-FOREIGN-DASH-FTA/Infinite03.mpd
+
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Монгол сувгууд",GoPlus
 https://cdn4.skygo.mn/live/disk1/Skymedia/DASH-FTA/Skymedia.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/168/168-LOGO-m.png" group-title="Монгол сувгууд",SkyLive
@@ -301,8 +302,6 @@ http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://www.varnalan.com/wp-content/uploads/2022/05/passionxxx18.png" group-title="Adult",PassionXXX
 https://live.iptvxxx.net/passionxxxtv.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://okteve.com/wp-content/uploads/media/a8f172f0712d0a728fe7cef4ecd19adc-520x293.jpeg" group-title="Adult",BabesTV
-http://tvmate.icu:8080/country/123456/159959?Billybob.says.hi.to.all.you.duds!
 #EXTINF:-1, radio="" tvg-logo="https://play-lh.googleusercontent.com/aS49uYmwDcpKpMD_IHjTz288qx2wUk4InTzZHqFZ_yBefnLMcNKGh3C0w5Gg55VzhQI=s192-rw" group-title="Adult",MyCam Blonde (720p)
 http://cdn.adultiptv.net/blonde.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://play-lh.googleusercontent.com/aS49uYmwDcpKpMD_IHjTz288qx2wUk4InTzZHqFZ_yBefnLMcNKGh3C0w5Gg55VzhQI=s192-rw" group-title="Adult",MyCam Blowjob (720p)
@@ -343,8 +342,7 @@ http://cdn.adultiptv.net/gangbang.m3u8
 http://cdn.adultiptv.net/cuckold.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://play-lh.googleusercontent.com/aS49uYmwDcpKpMD_IHjTz288qx2wUk4InTzZHqFZ_yBefnLMcNKGh3C0w5Gg55VzhQI=s192-rw" group-title="Adult",MyCam Anal (720p)
 http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://st3.depositphotos.com/8296740/32541/v/380/depositphotos_325419044-stock-illustration-twenty-one-plus-round-sign.jpg" group-title="Adult",Porn
-http://d029dcec.kazmazpaz.ru/iptv/TPTP2HX82NCNCE/20090/manifest.m3u8
+
  
 #EXTINF:-1, radio="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png" group-title="News",Fasion tv Midnight HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
