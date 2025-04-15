@@ -281,6 +281,10 @@ https://10st.vcast.im/MYASIATV/TV5/playlist.m3u8
  
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/797/102797-LOGO-m.png" group-title="Adult",Babes TV
 https://cdn4.skygo.mn/live/disk1/Babes/LTV-FOREIGN-DASH-FTA/Babes.mpd 
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/797/102797-LOGO-m.png" group-title="Adult",Babes
+http://fortv.cc:8080/7800481/6074514/159959
+#EXTINF:-1, radio="" tvg-logo="https://t3.ftcdn.net/jpg/04/72/15/78/360_F_472157856_ysVMs6iHItpEN5P1xUMOTwwjOBLJv5J3.jpg" group-title="Adult",PornBox
+http://206.212.244.47:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160048
 
 #EXTINF:-1, radio="" tvg-logo="https://www.desirewrites.com/wp-content/uploads/2021/02/desire-writes-logo@2x-2.png" group-title="Adult",Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
