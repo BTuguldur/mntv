@@ -184,26 +184,6 @@ http://1tv41.icu:8080/ahx4CN/815233/17772
 #EXTINF:-1, radio="" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg" group-title="Gadaad",HBO SIGNATURE
 http://1tv41.icu:8080/ahx4CN/815233/9266
 
-
-#EXTINF:-1 tvg-id="HBO.cl" tvg-name="HBO" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO
-http://directo.ddns.me:2082/felipenarcelles/felipe7388/7010
-#EXTINF:-1 tvg-id="HBO 2.ar" tvg-name="HBO 2" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO 2
-http://directo.ddns.me:2082/felipenarcelles/felipe7388/7011
-#EXTINF:-1 tvg-id="HBO FAMILY.ar" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="CINE",HBO Family
-http://directo.ddns.me:2082/felipenarcelles/felipe7388/7013
-#EXTINF:-1 tvg-id="HBO MUNDI.ar" tvg-name="HBO Mundi " tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Mundi 
-http://directo.ddns.me:2082/felipenarcelles/felipe7388/15618
-#EXTINF:-1 tvg-id="HBO PLUS.ar" tvg-name="HBO Plus" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="CINE",HBO Plus
-http://directo.ddns.me:2082/felipenarcelles/felipe7388/7012
-#EXTINF:-1 tvg-id="HBO POP HD.ar" tvg-name="HBO Pop " tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Pop 
-http://directo.ddns.me:2082/felipenarcelles/felipe7388/15619
-#EXTINF:-1 tvg-id="HBO SIGNATURE.ar" tvg-name="HBO Signature" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Signature
-http://directo.ddns.me:2082/felipenarcelles/felipe7388/7014
-#EXTINF:-1 tvg-id="HBO XTREME.ar" tvg-name="HBO Xtreme" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Xtreme
-http://directo.ddns.me:2082/felipenarcelles/felipe7388/30625
-
-
-
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/854/854-LOGO-m.png" group-title="Opoc", OPT
 https://cdn4.skygo.mn/live/disk1/ORt/DASH-FTA/ORt.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/191/11191-LOGO-m.png" group-title="Opoc", ТВЦ
