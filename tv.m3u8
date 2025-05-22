@@ -185,6 +185,24 @@ http://1tv41.icu:8080/ahx4CN/815233/17772
 http://1tv41.icu:8080/ahx4CN/815233/9266
 
 
+#EXTINF:-1 tvg-id="HBO.cl" tvg-name="HBO" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO
+http://directo.ddns.me:2082/felipenarcelles/felipe7388/7010
+#EXTINF:-1 tvg-id="HBO 2.ar" tvg-name="HBO 2" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO 2
+http://directo.ddns.me:2082/felipenarcelles/felipe7388/7011
+#EXTINF:-1 tvg-id="HBO FAMILY.ar" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="CINE",HBO Family
+http://directo.ddns.me:2082/felipenarcelles/felipe7388/7013
+#EXTINF:-1 tvg-id="HBO MUNDI.ar" tvg-name="HBO Mundi " tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Mundi 
+http://directo.ddns.me:2082/felipenarcelles/felipe7388/15618
+#EXTINF:-1 tvg-id="HBO PLUS.ar" tvg-name="HBO Plus" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="CINE",HBO Plus
+http://directo.ddns.me:2082/felipenarcelles/felipe7388/7012
+#EXTINF:-1 tvg-id="HBO POP HD.ar" tvg-name="HBO Pop " tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Pop 
+http://directo.ddns.me:2082/felipenarcelles/felipe7388/15619
+#EXTINF:-1 tvg-id="HBO SIGNATURE.ar" tvg-name="HBO Signature" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Signature
+http://directo.ddns.me:2082/felipenarcelles/felipe7388/7014
+#EXTINF:-1 tvg-id="HBO XTREME.ar" tvg-name="HBO Xtreme" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Xtreme
+http://directo.ddns.me:2082/felipenarcelles/felipe7388/30625
+
+
 
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/854/854-LOGO-m.png" group-title="Opoc", OPT
 https://cdn4.skygo.mn/live/disk1/ORt/DASH-FTA/ORt.mpd
@@ -306,6 +324,18 @@ http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://www.varnalan.com/wp-content/uploads/2022/05/passionxxx18.png" group-title="Adult",PassionXXX
 https://live.iptvxxx.net/passionxxxtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Anal Pinkotv" tvg-logo="https://i.postimg.cc/vZVrvQ4j/porno.png" group-title="Adult",XXX: Anal Pinkotv
+http://directo.ddns.me:2082/felipenarcelles/felipe7388/14033
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Abrazzers TV" tvg-logo="https://i.postimg.cc/vZVrvQ4j/porno.png" group-title="Adult",XXX: Abrazzers TV
+http://directo.ddns.me:2082/felipenarcelles/felipe7388/30703
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL" tvg-logo="https://i.postimg.cc/vZVrvQ4j/porno.png" group-title="Adult",XXX: DORCEL
+http://directo.ddns.me:2082/felipenarcelles/felipe7388/31857
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Playboy" tvg-logo="https://i.postimg.cc/vZVrvQ4j/porno.png" group-title="Adult",XXX: Playboy
+http://directo.ddns.me:2082/felipenarcelles/felipe7388/13353
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Penthouse" tvg-logo="https://i.postimg.cc/vZVrvQ4j/porno.png" group-title="Adult",XXX: Penthouse
+http://directo.ddns.me:2082/felipenarcelles/felipe7388/13352
+
 #EXTINF:-1, radio="" tvg-logo="https://play-lh.googleusercontent.com/aS49uYmwDcpKpMD_IHjTz288qx2wUk4InTzZHqFZ_yBefnLMcNKGh3C0w5Gg55VzhQI=s192-rw" group-title="Adult",MyCam Blonde (720p)
 http://cdn.adultiptv.net/blonde.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://play-lh.googleusercontent.com/aS49uYmwDcpKpMD_IHjTz288qx2wUk4InTzZHqFZ_yBefnLMcNKGh3C0w5Gg55VzhQI=s192-rw" group-title="Adult",MyCam Blowjob (720p)
