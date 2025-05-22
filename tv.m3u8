@@ -144,7 +144,7 @@ https://cdn2.skygo.mn/live/disk1/NHK_World_Premium/DASH-FTA/NHK_World_Premium.mp
 https://cdn2.skygo.mn/live/disk1/CCTV-10/DASH-FTA/CCTV-10.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/086/15086-LOGO-m.png" group-title="Gadaad",Arirang
 https://cdn2.skygo.mn/live/disk1/Arirang/DASH-FTA/Arirang.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.digitaltveurope.com/files/2016/07/Bloomberg-Television.jpg" group-title="Gadaad",Bloomberg
+#EXTINF:-1, radio="" tvg-logo="https://www.logotypes101.com/logos/341/55BDA2FC40B2093E02F72EF97F6B6536/Bloomberg_Television.png" group-title="Gadaad",Bloomberg
 https://cdn4.skygo.mn/live/disk1/Bloomberg/DASH-FTA/Bloomberg.mpd
 #EXTINF:-1, radio="" tvg-logo="https://toppng.com/uploads/preview/bbc-news-logo-png-bbc-world-channel-logo-11563049882jqyf96g6u7.png" group-title="Gadaad", BBC World News
 https://cdn2.skygo.mn/live/disk1/BBC_News/LTV-FOREIGN-DASH-FTA/BBC_News.mpd
@@ -161,12 +161,12 @@ https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/
 https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://image.apktoy.com/img/96/tv.wuaki/icon.png" group-title="Gadaad",Rakuten Shows
 https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://cdn.teleon.tv/logo/al_jazeera_channel_transparent.png" group-title="Gadaad",Al Jazeera
+#EXTINF:-1, radio="" tvg-logo="https://m.media-amazon.com/images/I/31TqBcQUlcL.png" group-title="Gadaad",Al Jazeera
 https://live-hls-web-aje.getaj.net/alternative/AJE/03.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://cdn.teleon.tv/logo/cbs-news-us_transparent-2.png" group-title="Gadaad",CBS News
+#EXTINF:-1, radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/960px-CBS_News.svg.png" group-title="Gadaad",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://cdn.teleon.tv/logo/fox_news_channel_transparent.png" group-title="Gadaad",Fox News
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist480p.m3u8
+#EXTINF:-1, radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Fox_news_channel_logo.png" group-title="Gadaad",Fox News
+https://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png" group-title="Gadaad",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/220px-NBC_logo.svg.png" group-title="Gadaad",NBC
@@ -178,9 +178,9 @@ http://170.254.18.106/HBO_SIG/index.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg" group-title="Gadaad",HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg" group-title="Gadaad",HBO 2
-http://170.254.18.106/HBO2/index.m3u8
+https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg" group-title="Gadaad",HBO Family
-http://170.254.18.106:80/HBO_FAMILY/index.m3u8
+http://fivetv.org:25461/luis20/cantos21/186482
 #EXTINF:-1, radio="" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg" group-title="Gadaad",HBO Mundi
 http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
 
@@ -302,7 +302,7 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/512px-Dorcel_TV.svg.png" group-title="Adult",Dorcel
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://epgx.site/p/sholk.png" group-title="Adult",Шелк
+#EXTINF:-1, radio="" tvg-logo="https://epg.iptvx.one/picons/sholk.png" group-title="Adult",Шелк
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://www.varnalan.com/wp-content/uploads/2022/05/passionxxx18.png" group-title="Adult",PassionXXX
 https://live.iptvxxx.net/passionxxxtv.m3u8
