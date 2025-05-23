@@ -1,10 +1,12 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BTuguldur/epgmn/refs/heads/main/epg.xml"
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",No Heaven But Love
-https://cdn3.skygo.mn/vod/disk1/NoHeavenButLove03/_/VOD-FOREIGN-DASH-FTA/NoHeavenButLove03.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Room Next Door
-https://cdn2.skygo.mn/vod/disk1/RoomNextDoor03/_/VOD-FOREIGN-DASH-FTA/RoomNextDoor03.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Hear Me Our Summer
-https://cdn3.skygo.mn/vod/disk1/HearMeOurSummer03/_/VOD-FOREIGN-DASH-FTA/HearMeOurSummer03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Captain America Brave New World
+https://cdn2.skygo.mn/vod/disk1/CaptainAmericaBraveNewWorld03/_/VOD-FOREIGN-DASH-FTA/CaptainAmericaBraveNewWorld03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Оройн зоог +18
+https://cdn2.skygo.mn/vod/disk1/OroinZoog03/_/DASH-FTA/OroinZoog03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",16-тай ээж
+https://cdn3.skygo.mn/vod/disk1/ArvanNaimtaiEej03/_/DASH-FTA/ArvanNaimtaiEej03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Үүлэн сэтгэл
+https://cdn3.skygo.mn/vod/disk1/UulenSetgel03/_/DASH-FTA/UulenSetgel03.mpd
 
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Монгол сувгууд",GoPlus
 https://cdn4.skygo.mn/live/disk1/Skymedia/DASH-FTA/Skymedia.mpd
