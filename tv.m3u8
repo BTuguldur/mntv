@@ -7,6 +7,8 @@ https://cdn2.skygo.mn/vod/disk1/OroinZoog03/_/DASH-FTA/OroinZoog03.mpd
 https://cdn3.skygo.mn/vod/disk1/ArvanNaimtaiEej03/_/DASH-FTA/ArvanNaimtaiEej03.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Ноолуурчид
 https://cdn2.skygo.mn/vod/disk1/Nooluurchid03/_/DASH-FTA/Nooluurchid03.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Mickey 17
+https://cdn2.skygo.mn/vod/disk1/Mickey1703/_/VOD-FOREIGN-DASH-FTA/Mickey1703.mpd
 
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Монгол сувгууд",GoPlus
 https://cdn4.skygo.mn/live/disk1/Skymedia/DASH-FTA/Skymedia.mpd
