@@ -106,8 +106,7 @@ https://cdn4.skygo.mn/live/disk1/MNplus91/DASH-FTA/MNplus91.mpd
 https://cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/372/89372-LOGO-m.png" group-title="Kids", Popcorn
 https://cdn4.skygo.mn/live/disk1/Popcorn/HLS-FTA/Popcorn.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/372/89372-LOGO-m.png" group-title="Kids", Popcorn1
-https://cdn4.skygo.mn/live/disk1/Popcorn/DASH-FTA/Popcorn.mpd
+
 
 
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/851/851-LOGO-m.png" group-title="Gadaad", Warner
@@ -156,8 +155,7 @@ https://cdn2.skygo.mn/live/disk1/BBC_News/LTV-FOREIGN-DASH-FTA/BBC_News.mpd
 https://cdn4.skygo.mn/live/disk1/CNNi/LTV-FOREIGN-DASH-FTA/CNNi.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/873/873-LOGO-m.png" group-title="Gadaad",NHK World
 https://cdn4.skygo.mn/live/disk1/NHK_World/LTV-FOREIGN-DASH-FTA/NHK_World.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/092/15092-LOGO-m.png" group-title="Gadaad",YTN
-https://cdn2.skygo.mn/live/disk1/YTN_World/LTV-FOREIGN-DASH-FTA/YTN_World.mpd
+
 
 #EXTINF:-1, radio="" tvg-logo="https://image.apktoy.com/img/96/tv.wuaki/icon.png" group-title="Gadaad",Rakuten Action
 https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
@@ -198,8 +196,6 @@ https://cdn2.skygo.mn/live/disk1/THT/LTV-FOREIGN-DASH-FTA/THT.mpd
 https://cdn2.skygo.mn/live/disk1/Vremya/LTV-FOREIGN-DASH-FTA/Vremya.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/855/855-LOGO-m.png" group-title="Opoc", Победа
 https://cdn4.skygo.mn/live/disk1/Pobeda/LTV-FOREIGN-DASH-FTA/Pobeda.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/090/15090-LOGO-m.png" group-title="Opoc", Музика первого
-https://cdn4.skygo.mn/live/disk1/Muzika/LTV-FOREIGN-DASH-FTA/Muzika.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/856/856-LOGO-m.png" group-title="Opoc", Мир
 https://cdn2.skygo.mn/live/disk1/MIR/LTV-FOREIGN-DASH-FTA/MIR.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/857/857-LOGO-m.png" group-title="Opoc", ТНТ4
@@ -216,10 +212,8 @@ https://cdn4.skygo.mn/live/disk1/Friday/LTV-FOREIGN-DASH-FTA/Friday.mpd
 https://cdn2.skygo.mn/live/disk1/TV3Russia/LTV-FOREIGN-DASH-FTA/TV3Russia.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/863/863-LOGO-m.png" group-title="Opoc", Домашний
 https://cdn4.skygo.mn/live/disk1/Domashni/LTV-FOREIGN-DASH-FTA/Domashni.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/883/883-LOGO-m.png" group-title="Opoc", Бобер
-https://cdn2.skygo.mn/live/disk1/Bober/LTV-FOREIGN-DASH-FTA/Bober.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/089/15089-LOGO-m.png" group-title="Opoc", Поехали!
-https://cdn2.skygo.mn/live/disk1/Poehali/LTV-FOREIGN-DASH-FTA/Poehali.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/317/131317-LOGO-m.png" group-title="Opoc", 5
+https://cdn4.skygo.mn/live/disk1/Channel_5/LTV-FOREIGN-DASH-FTA/Channel_5.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/864/864-LOGO-m.png" group-title="Opoc", ТелеКафе
 https://cdn4.skygo.mn/live/disk1/Telecafe/LTV-FOREIGN-DASH-FTA/Telecafe.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/177/11177-LOGO-m.png" group-title="Opoc", Матч!Планета
@@ -241,10 +235,10 @@ https://cdn2.skygo.mn/live/disk1/SPSPlus/DASH-FTA/SPSPlus.mpd
 http://202.21.104.6:88/sps-plus/index.m3u8
 
 
-
-
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/878/878-LOGO-m.png" group-title="Kids", BabyTV
-https://cdn4.skygo.mn/live/disk1/Baby_TV/LTV-FOREIGN-DASH-FTA/Baby_TV.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/976/111976-LOGO-m.png" group-title="Kids", MoonBug
+https://cdn2.skygo.mn/live/disk1/Moonbug/LTV-FOREIGN-DASH-FTA/Moonbug.mpd
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/976/111976-LOGO-m.png" group-title="Kids", ZooMoo
+https://cdn2.skygo.mn/live/disk1/Zoomoo/LTV-FOREIGN-DASH-FTA/Zoomoo.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/877/877-LOGO-m.png" group-title="Kids", CartoonNetwork
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/LTV-FOREIGN-DASH-FTA/Cartoon_Network.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/879/879-LOGO-m.png" group-title="Kids", Cbeebies
@@ -365,19 +359,19 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
  
 #EXTINF:-1, tvg-logo="https://www.mnb.mn/images/mini/mradio.jpg" radio="true" group-title="Radio", Монголын радио
-https://live.mnb.mn/radio/radio1.stream_aac/playlist.m3u8
+https://live.mnb.mn/hls/radio1.stream.m3u8
 #EXTINF:-1, tvg-logo="https://www.mnb.mn/images/5.jpg" radio="true" group-title="Radio", P3 FM 100.9
-https://live.mnb.mn/radio/radio2.stream_aac/playlist.m3u8
+https://live.mnb.mn/hls/radio2.stream.m3u8
 #EXTINF:-1, tvg-logo="http://mntv.xp3.biz/tv/1045.png" radio="true" group-title="Radio", Гэр бүлийн радио 104.5
 https://c2.radioboss.fm/stream/394
-#EXTINF:-1, tvg-logo="http://mntv.xp3.biz/tv/969.gif" radio="true" group-title="Radio", Элгэн нутаг 96.9 /asuult/
-rtmp://streamer2.asuult.net/live/Elgennutag
-#EXTINF:-1, tvg-logo="http://mntv.xp3.biz/tv/1025.png" radio="true" group-title="Radio", UB RADIO 102.5 /asuult/
-rtmp://streamer.asuult.net/live/Radio1KK
-#EXTINF:-1, tvg-logo="http://mntv.xp3.biz/tv/lavai.jpg" radio="true" group-title="Radio", Лавайн Эгшиг 97.5 /asuult/
-rtmp://streamer.asuult.net/live/Radio97.5
-#EXTINF:-1, tvg-logo="http://mntv.xp3.biz/tv/997.jpg" radio="true" group-title="Radio", Их монгол 99.7 /asuult/
-rtmp://streamer.asuult.net/live/Radio99.7
+#EXTINF:-1, tvg-logo="https://cdn.onlineradiobox.com/img/l/0/97510.v22.png" radio="true" group-title="Radio", Элгэн нутаг 96.9
+https://a6.asurahosting.com:7210/radio.mp3
+#EXTINF:-1, tvg-logo="https://cdn.onlineradiobox.com/img/l/2/88772.v119.png" radio="true" group-title="Radio", RadioSons
+https://a6.asurahosting.com:7700/radio.mp3
+#EXTINF:-1, tvg-logo="https://cdn.onlineradiobox.com/img/l/1/138171.v1.png" radio="true" group-title="Radio", Antenna Web Mongolia
+https://italiavera.radioca.st/stream
+#EXTINF:-1, tvg-logo="https://worldradiomap.com/mn/images/shine-dolgion.gif" radio="true" group-title="Radio", Радио Шинэ Долгион
+https://s2.radio.co/s68086363c/listen
 #EXTINF:-1, tvg-logo="http://mntv.xp3.biz/tv/mglradio.png" radio="true" group-title="Radio", MGLRADIO
 http://74.91.125.187:8096/stream
 #EXTINF:-1, tvg-logo="https://cdn.onlineradiobox.com/img/l/0/101060.v28.png" radio="true" group-title="Radio", Music Plus+
