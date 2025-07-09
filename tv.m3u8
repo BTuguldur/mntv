@@ -15,7 +15,7 @@ https://cdn2.skygo.mn/live/disk1/MNplus91/DASH-FTA/MNplus91.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/232/57232-LOGO-m.png" group-title="Монгол сувгууд",MongolHD plus 1
 https://cdn2.skygo.mn/live/disk1/VolumePlus/DASH-FTA/VolumePlus.mpd
 #EXTINF:-1, tvg-id="Монгол ТВ" tvg-name="Монгол ТВ" radio="" tvg-logo="https://www.goplus.mn/images/repository/796/102796-LOGO-m.png" group-title="Монгол сувгууд",Монгол ТВ
-https://cdn4.skygo.mn/live/disk1/Mongol_HD/DASH-FTA/Mongol_HD.mpd
+https://cdn3.skygo.mn/live/disk1/Mongol_HD/LTV-MONGOLIA-DASH-CPIX/Mongol_HD.mpd
 #EXTINF:-1, tvg-id="МҮОНТ" tvg-name="МҮОНТ" radio="" tvg-logo="https://www.goplus.mn/images/repository/821/821-LOGO-m.png" group-title="Монгол сувгууд",МҮОНТ
 https://cdn3.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd
 #EXTINF:-1, tvg-id="NTV" tvg-name="NTV" radio="" tvg-logo="https://www.goplus.mn/images/repository/822/822-LOGO-m.png" group-title="Монгол сувгууд",NTV
