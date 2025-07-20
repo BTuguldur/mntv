@@ -89,7 +89,7 @@ https://cdn2.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/204/115204-LOGO-m.png" group-title="Монгол сувгууд",XTV
 https://cdn3.skygo.mn/live/disk1/TV4/DASH-FTA/TV4.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/846/846-LOGO-m.png" group-title="Монгол сувгууд",Inner Mongolia
-https://cdn2.skygo.mn/live/disk1/NeigMGL/DASH-FTA/NeigMGL.mpd
+https://cdn2.skygo.mn/live/disk1/NeigMGL/LTV-FOREIGN-DASH-FTA/NeigMGL.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/882/882-LOGO-m.png" group-title="Монгол сувгууд",Auto
 https://cdn2.skygo.mn/live/disk1/AutoTV/DASH-FTA/AutoTV.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/174/11174-LOGO-m.png" group-title="Монгол сувгууд",Gandan
@@ -110,16 +110,16 @@ https://cdn2.skygo.mn/live/disk1/Lotus/LTV-FOREIGN-DASH-FTA/Lotus.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/852/852-LOGO-m.png" group-title="Gadaad", DomKino
 https://cdn2.skygo.mn/live/disk1/DomPremium/LTV-FOREIGN-DASH-FTA/DomPremium.mpd
 
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/742/56742-LOGO-m.png" group-title="Gadaad", Discover_Science
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/742/56742-LOGO-m.png" group-title="Gadaad", BBC Discover_Science
 https://cdn2.skygo.mn/live/disk1/ScienceSoutheast/LTV-FOREIGN-DASH-FTA/ScienceSoutheast.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/741/56741-LOGO-m.png" group-title="Gadaad", Discovery Channel
 https://cdn2.skygo.mn/live/disk1/SoutheastAsia/LTV-FOREIGN-DASH-FTA/SoutheastAsia.mpd
 
-#EXTINF:-1, radio="" tvg-logo="https://i.pinimg.com/originals/7b/1f/78/7b1f789723817466b69d89d27d9b64b6.jpg" group-title="Gadaad", BBC Earth
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/867/867-LOGO-m.png" group-title="Gadaad", BBC Earth
 https://cdn2.skygo.mn/live/disk1/BBC_earth/LTV-FOREIGN-DASH-FTA/BBC_earth.mpd
-#EXTINF:-1, radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png" group-title="Gadaad", BBC Livestyle
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/868/868-LOGO-m.png" group-title="Gadaad", BBC Livestyle
 https://cdn2.skygo.mn/live/disk1/BBC_lifestyle/LTV-FOREIGN-DASH-FTA/BBC_lifestyle.mpd
-#EXTINF:-1, radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png" group-title="Gadaad", Discovery Asia
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/872/872-LOGO-m.png" group-title="Gadaad", Discovery Asia
 https://cdn2.skygo.mn/live/disk1/Discovery_Asia/LTV-FOREIGN-DASH-FTA/Discovery_Asia.mpd
 
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/745/56745-LOGO-m.png" group-title="Gadaad", Animal Planet
@@ -129,7 +129,7 @@ https://cdn2.skygo.mn/live/disk1/AnimalPlanet/LTV-FOREIGN-DASH-FTA/AnimalPlanet.
 https://cdn2.skygo.mn/live/disk1/CGTN_Doc/LTV-FOREIGN-DASH-FTA/CGTN_Doc.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/875/875-LOGO-m.png" group-title="Gadaad", Trace Urban
 https://cdn2.skygo.mn/live/disk1/Trace_Urban/LTV-FOREIGN-DASH-FTA/Trace_Urban.mpd
-#EXTINF:-1, radio="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png" group-title="Gadaad",FasionTv
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/093/15093-LOGO-m.png" group-title="Gadaad",FasionTv
 https://cdn2.skygo.mn/live/disk1/Fashion_TV/LTV-FOREIGN-DASH-FTA/Fashion_TV.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/088/15088-LOGO-m.png" group-title="Gadaad",KBS Korea
 https://cdn2.skygo.mn/live/disk1/KBS_World_24/LTV-FOREIGN-DASH-FTA/KBS_World_24.mpd
@@ -141,9 +141,9 @@ https://cdn2.skygo.mn/live/disk1/NHK_World_Premium/LTV-FOREIGN-DASH-FTA/NHK_Worl
 https://cdn2.skygo.mn/live/disk1/CCTV-10/LTV-FOREIGN-DASH-FTA/CCTV-10.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/086/15086-LOGO-m.png" group-title="Gadaad",Arirang
 https://cdn2.skygo.mn/live/disk1/Arirang/LTV-FOREIGN-DASH-FTA/Arirang.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.logotypes101.com/logos/341/55BDA2FC40B2093E02F72EF97F6B6536/Bloomberg_Television.png" group-title="Gadaad",Bloomberg
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/425/8425-LOGO-m.png" group-title="Gadaad",Bloomberg
 https://cdn2.skygo.mn/live/disk1/Bloomberg/LTV-FOREIGN-DASH-FTA/Bloomberg.mpd
-#EXTINF:-1, radio="" tvg-logo="https://toppng.com/uploads/preview/bbc-news-logo-png-bbc-world-channel-logo-11563049882jqyf96g6u7.png" group-title="Gadaad", BBC World News
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/137/137-LOGO-m.png" group-title="Gadaad", BBC World News
 https://cdn2.skygo.mn/live/disk1/BBC_News/LTV-FOREIGN-DASH-FTA/BBC_News.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/869/869-LOGO-m.png" group-title="Gadaad", CNN
 https://cdn2.skygo.mn/live/disk1/CNNi/LTV-FOREIGN-DASH-FTA/CNNi.mpd
@@ -151,15 +151,15 @@ https://cdn2.skygo.mn/live/disk1/CNNi/LTV-FOREIGN-DASH-FTA/CNNi.mpd
 https://cdn2.skygo.mn/live/disk1/NHK_World/LTV-FOREIGN-DASH-FTA/NHK_World.mpd
 
 
-#EXTINF:-1, radio="" tvg-logo="https://image.apktoy.com/img/96/tv.wuaki/icon.png" group-title="Gadaad",Rakuten Action
+#EXTINF:-1, radio="" tvg-logo="https://cdn6.aptoide.com/imgs/1/8/b/18bce0f0d9115b1b33d644bda68dcb53_icon.png" group-title="Gadaad",Rakuten Action
 https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://image.apktoy.com/img/96/tv.wuaki/icon.png" group-title="Gadaad",Rakuten Comedy
+#EXTINF:-1, radio="" tvg-logo="https://cdn6.aptoide.com/imgs/1/8/b/18bce0f0d9115b1b33d644bda68dcb53_icon.png" group-title="Gadaad",Rakuten Comedy
 https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://image.apktoy.com/img/96/tv.wuaki/icon.png" group-title="Gadaad",Rakuten Shows
+#EXTINF:-1, radio="" tvg-logo="https://cdn6.aptoide.com/imgs/1/8/b/18bce0f0d9115b1b33d644bda68dcb53_icon.png" group-title="Gadaad",Rakuten Shows
 https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://m.media-amazon.com/images/I/31TqBcQUlcL.png" group-title="Gadaad",Al Jazeera
 https://live-hls-web-aje.getaj.net/alternative/AJE/03.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/960px-CBS_News.svg.png" group-title="Gadaad",CBS News
+#EXTINF:-1, radio="" tvg-logo="https://seeklogo.com/images/C/cbs-news-logo-3E5CEC48B0-seeklogo.com.png" group-title="Gadaad",CBS News
 https://fl3.moveonjoy.com/CBS_News/index.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Fox_news_channel_logo.png" group-title="Gadaad",Fox News
 https://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.ts.m3u8
