@@ -68,8 +68,6 @@ https://cdn2.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd
 https://cdn2.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
 #EXTINF:-1, tvg-id="Bloomberg TV MGL" tvg-name="Bloomberg TV MGL" radio="" tvg-logo="https://mw.motv.mn/assets/channels/2019/07/29/0/channels_38-5d3e58797d152.png" group-title="Монгол сувгууд",Bloomberg TV MGL
 https://cdn2.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/844/844-LOGO-m.png" group-title="Монгол сувгууд",OnTV
-https://cdn2.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/799/10799-LOGO-m.png" group-title="Монгол сувгууд",Channel 11
 https://cdn2.skygo.mn/live/disk1/Channel11/DASH-FTA/Channel11.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/180/11180-LOGO-m.png" group-title="Монгол сувгууд",MNC
@@ -161,7 +159,7 @@ https://live-hls-web-aje.getaj.net/alternative/AJE/03.m3u8
 https://fl3.moveonjoy.com/CBS_News/index.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Fox_news_channel_logo.png" group-title="Gadaad",Fox News
 https://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/220px-NBC_logo.svg.png" group-title="Gadaad",CNBC world
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/530/131530-LOGO-m.png" group-title="Gadaad",CNBC world
 https://fl3.moveonjoy.com/CNBC_World/index.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png" group-title="Gadaad",CNA
 https://mediacorp-videosbclive.akamaized.net/8a496e61361c4079a0e16d8f09e79df9/ap-southeast-1/6057994443001/playlist.m3u8
