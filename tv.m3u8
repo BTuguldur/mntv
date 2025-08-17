@@ -277,6 +277,10 @@ https://10st.vcast.im/MYASIATV/TV5/playlist.m3u8
 https://cdn2.skygo.mn/live/disk1/Babes/LTV-FOREIGN-DASH-FTA/Babes.mpd 
 #EXTINF:-1 tvg-id="Babes", tvg-name="Babes" tvg-logo="https://www.goplus.mn/images/repository/797/102797-LOGO-m.png" group-title="Adult",Babes
 http://fortv.cc:8080/7800481/6074514/159959
+#EXTINF:-1 tvg-id="Casting couch", tvg-name="Casting couch" tvg-logo="https://www.goplus.mn/images/repository/797/102797-LOGO-m.png" group-title="Adult",Casting couch
+http://fortv.cc:8080/7800481/6074514/159968
+#EXTINF:-1 tvg-id="Fit18", tvg-name="Fit18" tvg-logo="https://pbs.twimg.com/profile_images/1034149903323127808/cAEeDFQx_400x400.jpg" group-title="Adult",Fit18
+http://fortv.cc:8080/7800481/6074514/159986
 #EXTINF:-1 tvg-id="PornBox", tvg-name="PornBox" tvg-logo="https://t3.ftcdn.net/jpg/04/72/15/78/360_F_472157856_ysVMs6iHItpEN5P1xUMOTwwjOBLJv5J3.jpg" group-title="Adult",PornBox
 http://206.212.244.71:8080/Gizvid192@giz.com/1234@4321/159951
 
@@ -293,9 +297,9 @@ http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Playboy", tvg-name="Playboy" tvg-logo="https://i.imgur.com/clpxgYh.png" group-title="Adult",Playboy
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Brazzers", tvg-name="Brazzers" tvg-logo="https://logowik.com/content/uploads/images/316_brazzers.jpg" group-title="Adult",Brazzers
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+http://fortv.cc:8080/7800481/6074514/159975
 #EXTINF:-1 tvg-id="Dorcel", tvg-name="Dorcel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/512px-Dorcel_TV.svg.png" group-title="Adult",Dorcel
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+Casting couch
 #EXTINF:-1 tvg-id="Шелк", tvg-name="Шелк" tvg-logo="https://epg.iptvx.one/picons/sholk.png" group-title="Adult",Шелк
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 #EXTINF:-1 tvg-id="PassionXXX", tvg-name="PassionXXX" tvg-logo="https://www.varnalan.com/wp-content/uploads/2022/05/passionxxx18.png" group-title="Adult",PassionXXX
@@ -355,6 +359,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playl
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="Kaloopy", tvg-name="Kaloopy" tvg-logo="https://i1.sndcdn.com/avatars-000599519394-hegjf1-t200x200.jpg" group-title="News",Kaloopy
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c8d66671-8c96-4f7e-9efc-df1c6e606965/0.m3u8
+
  
 #EXTINF:-1, tvg-logo="https://www.mnb.mn/images/mini/mradio.jpg" radio="true" group-title="Radio", Монголын радио
 https://live.mnb.mn/hls/radio1.stream.m3u8
