@@ -286,8 +286,8 @@ http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 http://31.148.48.15/O-la-la/index.m3u8
 #EXTINF:-1 tvg-id="Erox X HD", tvg-name="Erox X HD" tvg-logo="https://i.imgur.com/B9Fz9Yr.png" group-title="Adult",Erox X HD
 https://ortepe.xyz:21889/tv/eroxxx/chunks.m3u8?nimblesessionid=715770&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI1IDU6MjI6MzUgUE0maGFzaF92YWx1ZT12MCswUHBzWWN4OTVVNmNjU3RaUytnPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-id="Erox XXX HD", tvg-name="Erox XXX HD" tvg-logo="https://ia601503.us.archive.org/7/items/eroxxx-hd-2013/Eroxxx_HD_%282013%29.png" group-title="Adult",Erox XXX HD
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Nuart", tvg-name="Nuart" tvg-logo="https://epg.iptvx.one/picons/nuart-tv.png" group-title="Adult",Nuart
+https://moonlight.wideiptv.top/NuartTV/tracks-v1/index.fmp4.m3u8?token=513529b57f26c93e49a6813c9a97723cf0501f48-502197c07f046b63a29f431261b86732-1755462325-1755451525
 #EXTINF:-1 tvg-id="Extasy", tvg-name="Extasy" tvg-logo="https://i.imgur.com/aBa7eoE.png" group-title="Adult",Extasy
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Playboy", tvg-name="Playboy" tvg-logo="https://i.imgur.com/clpxgYh.png" group-title="Adult",Playboy
