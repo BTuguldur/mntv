@@ -297,9 +297,9 @@ http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Playboy", tvg-name="Playboy" tvg-logo="https://i.imgur.com/clpxgYh.png" group-title="Adult",Playboy
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Brazzers", tvg-name="Brazzers" tvg-logo="https://logowik.com/content/uploads/images/316_brazzers.jpg" group-title="Adult",Brazzers
-http://fortv.cc:8080/7800481/6074514/159975
+http://fortv.cc:8080/7800481/6074514/159966
 #EXTINF:-1 tvg-id="Dorcel", tvg-name="Dorcel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/512px-Dorcel_TV.svg.png" group-title="Adult",Dorcel
-Casting couch
+http://fortv.cc:8080/7800481/6074514/159975
 #EXTINF:-1 tvg-id="Шелк", tvg-name="Шелк" tvg-logo="https://epg.iptvx.one/picons/sholk.png" group-title="Adult",Шелк
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 #EXTINF:-1 tvg-id="PassionXXX", tvg-name="PassionXXX" tvg-logo="https://www.varnalan.com/wp-content/uploads/2022/05/passionxxx18.png" group-title="Adult",PassionXXX
