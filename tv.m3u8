@@ -354,7 +354,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playl
 #EXTINF:-1 tvg-id="FASHION PARIS 720", tvg-name="FASHION PARIS 720" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png" group-title="News", FASHION PARIS 720
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="Kaloopy", tvg-name="Kaloopy" tvg-logo="https://i1.sndcdn.com/avatars-000599519394-hegjf1-t200x200.jpg" group-title="News",Kaloopy
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c8d66671-8c96-4f7e-9efc-df1c6e606965/0.m3u8
  
 #EXTINF:-1, tvg-logo="https://www.mnb.mn/images/mini/mradio.jpg" radio="true" group-title="Radio", Монголын радио
 https://live.mnb.mn/hls/radio1.stream.m3u8
