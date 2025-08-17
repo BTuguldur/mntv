@@ -277,7 +277,7 @@ https://10st.vcast.im/MYASIATV/TV5/playlist.m3u8
 https://cdn2.skygo.mn/live/disk1/Babes/LTV-FOREIGN-DASH-FTA/Babes.mpd 
 #EXTINF:-1 tvg-id="Babes", tvg-name="Babes" tvg-logo="https://www.goplus.mn/images/repository/797/102797-LOGO-m.png" group-title="Adult",Babes
 http://fortv.cc:8080/7800481/6074514/159959
-#EXTINF:-1 tvg-id="Casting couch", tvg-name="Casting couch" tvg-logo="https://www.goplus.mn/images/repository/797/102797-LOGO-m.png" group-title="Adult",Casting couch
+#EXTINF:-1 tvg-id="Casting couch", tvg-name="Casting couch" tvg-logo="https://c749a9571b.mjedge.net/media/labels/864869d3-c677-4a7e-9e78-6fe2bd6355a3-thumb.jpg" group-title="Adult",Casting couch
 http://fortv.cc:8080/7800481/6074514/159968
 #EXTINF:-1 tvg-id="Fit18", tvg-name="Fit18" tvg-logo="https://pbs.twimg.com/profile_images/1034149903323127808/cAEeDFQx_400x400.jpg" group-title="Adult",Fit18
 http://fortv.cc:8080/7800481/6074514/159986
