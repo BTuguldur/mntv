@@ -75,9 +75,7 @@ https://cdn2.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/192/11192-LOGO-m.png" group-title="Монгол сувгууд",Өлзий
 https://cdn2.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/444/50444-LOGO-m.png" group-title="Монгол сувгууд",Талын Монгол
-https://cdn2.skygo.mn/live/disk1/TaliinMGLTV/DASH-FTA/TaliinMGLTV.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/188/11188-LOGO-m.png" group-title="Монгол сувгууд",6HD
-https://cdn2.skygo.mn/live/disk1/TV6/DASH-FTA/TV6.mpd
+https://cdn6.skygo.mn/live/disk1/TMGLTV/DASH-FTA/TMGLTV.mpd
 #EXTINF:-1, tvg-id="TV7" tvg-name="TV7" radio="" tvg-logo="https://www.goplus.mn/images/repository/189/11189-LOGO-m.png" group-title="Монгол сувгууд",TV7
 https://cdn2.skygo.mn/live/disk1/TV7/DASH-FTA/TV7.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/185/11185-LOGO-m.png" group-title="Монгол сувгууд",Соён гэгээрүүлэгч
@@ -97,7 +95,14 @@ https://cdn2.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/372/89372-LOGO-m.png" group-title="Kids", Popcorn
 https://cdn2.skygo.mn/live/disk1/Popcorn/HLS-FTA/Popcorn.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-id="AlbKanaleMusicTV.al" group-title="Gadaad",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" group-title="Germany",DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-name="DELUXE MUSIC DANCE BY KONTOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deluxe_Dance_by_Kontor_Logo_2023.svg/666px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png" tvg-id="DeluxeMusicDanceByKontor.de" group-title="Germany",DELUXE MUSIC DANCE BY KONTOR
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-name="Deluxe Lounge HD" tvg-logo="https://i.imgur.com/LzIsXym.png" group-title="VOD Italy",Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8
 
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/851/851-LOGO-m.png" group-title="Gadaad", Warner
 https://cdn2.skygo.mn/live/disk1/Warner/LTV-FOREIGN-DASH-FTA/Warner.mpd
@@ -147,12 +152,10 @@ https://cdn2.skygo.mn/live/disk1/CNNi/LTV-FOREIGN-DASH-FTA/CNNi.mpd
 https://cdn2.skygo.mn/live/disk1/NHK_World/LTV-FOREIGN-DASH-FTA/NHK_World.mpd
 
 
-#EXTINF:-1, radio="" tvg-logo="https://cdn6.aptoide.com/imgs/1/8/b/18bce0f0d9115b1b33d644bda68dcb53_icon.png" group-title="Gadaad",Rakuten Action
-https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://cdn6.aptoide.com/imgs/1/8/b/18bce0f0d9115b1b33d644bda68dcb53_icon.png" group-title="Gadaad",Rakuten Comedy
-https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://cdn6.aptoide.com/imgs/1/8/b/18bce0f0d9115b1b33d644bda68dcb53_icon.png" group-title="Gadaad",Rakuten Shows
-https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
+
+#EXTINF:-1 tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png" tvg-id="GBNews.uk" group-title="UK",GB News
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+
 #EXTINF:-1, radio="" tvg-logo="https://m.media-amazon.com/images/I/31TqBcQUlcL.png" group-title="Gadaad",Al Jazeera
 https://live-hls-web-aje.getaj.net/alternative/AJE/03.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/cbs-news-vector-logo.png" group-title="Gadaad",CBS News
@@ -165,6 +168,15 @@ https://fl3.moveonjoy.com/CNBC_World/index.m3u8
 https://mediacorp-videosbclive.akamaized.net/8a496e61361c4079a0e16d8f09e79df9/ap-southeast-1/6057994443001/playlist.m3u8
 #EXTINF:-1, radio="" tvg-logo="https://mir-s3-cdn-cf.behance.net/user/276/10dc1e1681627.6157382cafd3b.png" group-title="Gadaad",SKY news
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist720p.m3u8
+
+
+#EXTINF:-1, radio="" tvg-logo="https://cdn6.aptoide.com/imgs/1/8/b/18bce0f0d9115b1b33d644bda68dcb53_icon.png" group-title="Gadaad",Rakuten Action
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
+#EXTINF:-1, radio="" tvg-logo="https://cdn6.aptoide.com/imgs/1/8/b/18bce0f0d9115b1b33d644bda68dcb53_icon.png" group-title="Gadaad",Rakuten Comedy
+https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
+#EXTINF:-1, radio="" tvg-logo="https://cdn6.aptoide.com/imgs/1/8/b/18bce0f0d9115b1b33d644bda68dcb53_icon.png" group-title="Gadaad",Rakuten Shows
+https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
+
 #EXTINF:-1, radio="" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg" group-title="Gadaad",HBO
 http://1tv41.icu:8080/ahx4CN/815233/9264
 #EXTINF:-1, radio="" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg" group-title="Gadaad",HBO Comedy
@@ -226,7 +238,7 @@ https://cdn2.skygo.mn/live/disk1/SPSPlus/DASH-FTA/SPSPlus.mpd
 
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/976/111976-LOGO-m.png" group-title="Kids", MoonBug
 https://cdn2.skygo.mn/live/disk1/Moonbug/LTV-FOREIGN-DASH-FTA/Moonbug.mpd
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/976/111976-LOGO-m.png" group-title="Kids", ZooMoo
+#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/774/56774-LOGO-m.png" group-title="Kids", ZooMoo
 https://cdn2.skygo.mn/live/disk1/Zoomoo/LTV-FOREIGN-DASH-FTA/Zoomoo.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/877/877-LOGO-m.png" group-title="Kids", CartoonNetwork
 https://cdn2.skygo.mn/live/disk1/Cartoon_Network/LTV-FOREIGN-DASH-FTA/Cartoon_Network.mpd
@@ -241,9 +253,6 @@ https://cdn2.skygo.mn/live/disk1/CCTV-14/LTV-FOREIGN-DASH-FTA/CCTV-14.mpd
 #EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/880/880-LOGO-m.png" group-title="Kids", Карусель
 https://cdn2.skygo.mn/live/disk1/Karusel/LTV-FOREIGN-DASH-FTA/Karusel.mpd
 
-
-#EXTINF:-1, radio="" tvg-logo="https://www.goplus.mn/images/repository/854/854-LOGO-m.png" group-title="Opoc", OPT
-http://202.21.104.6:88/ort-tv/mono.m3u8
 
 
 #EXTINF:-1, radio="" tvg-logo="https://www.mnb.mn/images/mini/tv.png" group-title="Монгол сувгууд",Монголын Үндэсний Олон Нийтийн Телевиз /web/
