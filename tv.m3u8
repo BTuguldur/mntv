@@ -398,13 +398,13 @@ http://media-the.musicradio.com/CapitalUK?type=.flv&amsparams=playerid:UKRP;skey
 
 
 #EXTINF:-1 tvg-id="TopGunMaverick", tvg-name="TopGunMaverick" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",TopGunMaverick
-https://cdn4.skygo.mn/vod/disk1/TopGunMaverick03/_/VOD-FOREIGN-VOD-FOREIGN-DASH-FTA/TopGunMaverick03.mpd
+https://cdn4.skygo.mn/vod/disk1/TopGunMaverick03/_/VOD-FOREIGN-DASH-FTA/TopGunMaverick03.mpd
 #EXTINF:-1 tvg-id="Dune", tvg-name="Dune" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Dune
-https://cdn6.skygo.mn/vod/disk1/Dune03/_/VOD-FOREIGN-VOD-FOREIGN-DASH-FTA/Dune03.mpd
+https://cdn6.skygo.mn/vod/disk1/Dune03/_/VOD-FOREIGN-DASH-FTA/Dune03.mpd
 #EXTINF:-1 tvg-id="Dune2", tvg-name="Dune2" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Dune 2
-https://cdn6.skygo.mn/vod/disk1/DunePart203/_/VOD-FOREIGN-VOD-FOREIGN-DASH-FTA/DunePart203.mpd
+https://cdn6.skygo.mn/vod/disk1/DunePart203/_/VOD-FOREIGN-DASH-FTA/DunePart203.mpd
 #EXTINF:-1 tvg-id="Interstellar", tvg-name="Interstellar" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Interstellar
-https://cdn6.skygo.mn/vod/disk1/Interstellar03/_/VOD-FOREIGN-VOD-FOREIGN-DASH-FTA/Interstellar03.mpd
+https://cdn6.skygo.mn/vod/disk1/Interstellar03/_/VOD-FOREIGN-DASH-FTA/Interstellar03.mpd
 
 #EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",TheMartian
 https://cdn4.skygo.mn/vod/disk1/TheMartian03/_/VOD-FOREIGN-DASH-FTA/TheMartian03.mpd
