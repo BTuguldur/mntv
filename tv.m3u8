@@ -288,20 +288,18 @@ http://fortv.cc:8080/7800481/6074514/159972
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="EXXXotica", tvg-name="EXXXotica" tvg-logo="https://archive.org/download/Exxxotica/Exxxotica.png" group-title="Adult",EXXXotica
 http://31.148.48.15/O-la-la/index.m3u8
-#EXTINF:-1 tvg-id="Erox X HD", tvg-name="Erox X HD" tvg-logo="https://i.imgur.com/B9Fz9Yr.png" group-title="Adult",Erox X HD
-https://moonlight.wideiptv.top/EroX-XxX/index.fmp4.m3u8?token=d2dd43d2d755ba8f66e5b0e1b521bc777e5d8153-b12140f2ed8a3fbf59f530d65d04defc-1755462844-1755452044
-#EXTINF:-1 tvg-id="Nuart", tvg-name="Nuart" tvg-logo="https://epg.iptvx.one/picons/nuart-tv.png" group-title="Adult",Nuart
-https://moonlight.wideiptv.top/NuartTV/tracks-v1/index.fmp4.m3u8?token=513529b57f26c93e49a6813c9a97723cf0501f48-502197c07f046b63a29f431261b86732-1755462325-1755451525
 #EXTINF:-1 tvg-id="Extasy", tvg-name="Extasy" tvg-logo="https://i.imgur.com/aBa7eoE.png" group-title="Adult",Extasy
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nuart", tvg-name="Nuart" tvg-logo="https://epg.iptvx.one/picons/nuart-tv.png" group-title="Adult",Nuart
+https://moonlight.wideiptv.top/NuartTV/tracks-v1/index.fmp4.m3u8?token=02a3a227b3526977d36d68a93437c0b363dfcb08-ae2dd241055bdfeb1260482dd2edaf68-1755519183-1755508383
 #EXTINF:-1 tvg-id="Playboy", tvg-name="Playboy" tvg-logo="https://i.imgur.com/clpxgYh.png" group-title="Adult",Playboy
-https://ortepe.xyz:43429/tv/playboy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI1IDY6NTM6NTUgUE0maGFzaF92YWx1ZT1HemZFUmpFV29pN00rQ1FsTm5RMFNnPT0mdmFsaWRtaW51dGVzPTYw
+https://moonlight.wideiptv.top/PlayboyTV/tracks-v1/index.fmp4.m3u8?token=4bf12dbca934c0640aa2b19375762247d605fe89-356ee850b2f89af4ac2b7de9344e447a-1755518948-1755508148
+
 #EXTINF:-1 tvg-id="Brazzers", tvg-name="Brazzers" tvg-logo="https://logowik.com/content/uploads/images/316_brazzers.jpg" group-title="Adult",Brazzers
 http://fortv.cc:8080/7800481/6074514/159966
 #EXTINF:-1 tvg-id="Dorcel", tvg-name="Dorcel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/512px-Dorcel_TV.svg.png" group-title="Adult",Dorcel
 http://fortv.cc:8080/7800481/6074514/159975
-#EXTINF:-1 tvg-id="Шелк", tvg-name="Шелк" tvg-logo="https://epg.iptvx.one/picons/sholk.png" group-title="Adult",Шелк
-http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 #EXTINF:-1 tvg-id="PassionXXX", tvg-name="PassionXXX" tvg-logo="https://www.varnalan.com/wp-content/uploads/2022/05/passionxxx18.png" group-title="Adult",PassionXXX
 http://88b9da48.kazmazpaz.ru/iptv/LQ3H9GP9M7UA6M/20090/manifest.m3u8
 
