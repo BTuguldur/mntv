@@ -9,59 +9,59 @@ https://cdn4.skygo.mn/live/disk1/CNBC/DASH-FTA/CNBC.mpd
 
 #EXTINF:-1 tvg-id="MongolHD plus 1" tvg-name="MongolHD plus 1" tvg-logo="https://www.goplus.mn/images/repository/232/57232-LOGO-m.png" group-title="Монгол сувгууд",MongolHD plus 1
 https://cdn4.skygo.mn/live/disk1/VolumePlus/DASH-FTA/VolumePlus.mpd
-#EXTINF:-1, tvg-id="Монгол ТВ" tvg-name="Монгол ТВ" tvg-name="Монгол ТВ" tvg-logo="https://www.goplus.mn/images/repository/796/102796-LOGO-m.png" group-title="Монгол сувгууд",Монгол ТВ
+#EXTINF:-1 tvg-id="Монгол ТВ" tvg-name="Монгол ТВ" tvg-name="Монгол ТВ" tvg-logo="https://www.goplus.mn/images/repository/796/102796-LOGO-m.png" group-title="Монгол сувгууд",Монгол ТВ
 https://cdn4.skygo.mn/live/disk1/Mongol_HD/LTV-MONGOLIA-DASH-CPIX/Mongol_HD.mpd
-#EXTINF:-1, tvg-id="МҮОНТ" tvg-name="МҮОНТ" tvg-name="МҮОНТ" tvg-logo="https://www.goplus.mn/images/repository/821/821-LOGO-m.png" group-title="Монгол сувгууд",МҮОНТ
+#EXTINF:-1 tvg-id="МҮОНТ" tvg-name="МҮОНТ" tvg-name="МҮОНТ" tvg-logo="https://www.goplus.mn/images/repository/821/821-LOGO-m.png" group-title="Монгол сувгууд",МҮОНТ
 https://cdn4.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd
-#EXTINF:-1, tvg-id="NTV" tvg-name="NTV" tvg-name="NTV" tvg-logo="https://www.goplus.mn/images/repository/822/822-LOGO-m.png" group-title="Монгол сувгууд",NTV
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-name="NTV" tvg-logo="https://www.goplus.mn/images/repository/822/822-LOGO-m.png" group-title="Монгол сувгууд",NTV
 https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
-#EXTINF:-1, tvg-id="Star TV" tvg-name="Star TV" tvg-name="Star TV" tvg-logo="https://mw.motv.mn/assets/channels/2021/07/23/22/channels_34-60fa30cd437c7.png" group-title="Монгол сувгууд",Star TV
+#EXTINF:-1 tvg-id="Star TV" tvg-name="Star TV" tvg-name="Star TV" tvg-logo="https://mw.motv.mn/assets/channels/2021/07/23/22/channels_34-60fa30cd437c7.png" group-title="Монгол сувгууд",Star TV
 https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd 
-#EXTINF:-1, tvg-id="UBS-1" tvg-name="UBS-1" tvg-name="UBS-1" tvg-logo="https://www.goplus.mn/images/repository/824/824-LOGO-m.png" tvg-name="UBS" group-title="Монгол сувгууд",UBS-1
+#EXTINF:-1 tvg-id="UBS-1" tvg-name="UBS-1" tvg-name="UBS-1" tvg-logo="https://www.goplus.mn/images/repository/824/824-LOGO-m.png" tvg-name="UBS" group-title="Монгол сувгууд",UBS-1
 https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
-#EXTINF:-1, tvg-id="TV5" tvg-name="TV5" tvg-name="TV5" tvg-logo="https://www.goplus.mn/images/repository/825/825-LOGO-m.png" group-title="Монгол сувгууд",TV5
+#EXTINF:-1 tvg-id="TV5" tvg-name="TV5" tvg-name="TV5" tvg-logo="https://www.goplus.mn/images/repository/825/825-LOGO-m.png" group-title="Монгол сувгууд",TV5
 https://cdn4.skygo.mn/live/disk1/TV5HD/DASH-FTA/TV5HD.mpd
-#EXTINF:-1, tvg-id="MN25" tvg-name="MN25" tvg-name="MN25" tvg-logo="https://www.goplus.mn/images/repository/436/6436-LOGO-m.png" group-title="Монгол сувгууд",MN25
+#EXTINF:-1 tvg-id="MN25" tvg-name="MN25" tvg-name="MN25" tvg-logo="https://www.goplus.mn/images/repository/436/6436-LOGO-m.png" group-title="Монгол сувгууд",MN25
 https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd
-#EXTINF:-1, tvg-id="Боловсрол ТВ" tvg-name="Боловсрол ТВ" tvg-name="Боловсрол ТВ" tvg-logo="https://www.goplus.mn/images/repository/827/827-LOGO-m.png" group-title="Монгол сувгууд",Боловсрол ТВ
+#EXTINF:-1 tvg-id="Боловсрол ТВ" tvg-name="Боловсрол ТВ" tvg-name="Боловсрол ТВ" tvg-logo="https://www.goplus.mn/images/repository/827/827-LOGO-m.png" group-title="Монгол сувгууд",Боловсрол ТВ
 https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
-#EXTINF:-1, tvg-id="Central TV" tvg-name="Central TV" tvg-name="Central TV" tvg-logo="https://www.goplus.mn/images/repository/203/106203-LOGO-m.png" group-title="Монгол сувгууд",Central TV
+#EXTINF:-1 tvg-id="Central TV" tvg-name="Central TV" tvg-name="Central TV" tvg-logo="https://www.goplus.mn/images/repository/203/106203-LOGO-m.png" group-title="Монгол сувгууд",Central TV
 https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd
 #EXTINF:-1 tvg-id="Eagle" tvg-name="Eagle" tvg-logo="https://www.goplus.mn/images/repository/829/829-LOGO-m.png" group-title="Монгол сувгууд",Eagle
 https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd
-#EXTINF:-1, tvg-id="C1" tvg-name="C1" tvg-name="C1" tvg-logo="https://www.goplus.mn/images/repository/830/830-LOGO-m.png" group-title="Монгол сувгууд",C1
+#EXTINF:-1 tvg-id="C1" tvg-name="C1" tvg-name="C1" tvg-logo="https://www.goplus.mn/images/repository/830/830-LOGO-m.png" group-title="Монгол сувгууд",C1
 https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd
-#EXTINF:-1, tvg-id="ETV HD" tvg-name="ETV HD" tvg-name="ETV HD" tvg-logo="https://www.goplus.mn/images/repository/831/831-LOGO-m.png" group-title="Монгол сувгууд",ETV HD
+#EXTINF:-1 tvg-id="ETV HD" tvg-name="ETV HD" tvg-name="ETV HD" tvg-logo="https://www.goplus.mn/images/repository/831/831-LOGO-m.png" group-title="Монгол сувгууд",ETV HD
 https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
 #EXTINF:-1 tvg-id="TenGerTV" tvg-name="TenGerTV" tvg-logo="https://www.goplus.mn/images/repository/832/832-LOGO-m.png" group-title="Монгол сувгууд",TenGerTV
 https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd
-#EXTINF:-1, tvg-id="SBN" tvg-name="SBN" tvg-name="SBN" tvg-logo="https://www.goplus.mn/images/repository/833/833-LOGO-m.png" group-title="Монгол сувгууд",SBN
+#EXTINF:-1 tvg-id="SBN" tvg-name="SBN" tvg-name="SBN" tvg-logo="https://www.goplus.mn/images/repository/833/833-LOGO-m.png" group-title="Монгол сувгууд",SBN
 https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd
 #EXTINF:-1 tvg-id="TM" tvg-name="TM" tvg-logo="https://www.goplus.mn/images/repository/834/834-LOGO-m.png" group-title="Монгол сувгууд",TM
 https://cdn4.skygo.mn/live/disk1/TM/DASH-FTA/TM.mpd
-#EXTINF:-1, tvg-id="Малчин HD" tvg-name="Малчин HD" tvg-logo="https://www.goplus.mn/images/repository/941/111941-LOGO-m.png" group-title="Монгол сувгууд",Малчин HD
+#EXTINF:-1 tvg-id="Малчин HD" tvg-name="Малчин HD" tvg-logo="https://www.goplus.mn/images/repository/941/111941-LOGO-m.png" group-title="Монгол сувгууд",Малчин HD
 https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
-#EXTINF:-1, tvg-id="TV9" tvg-name="TV9" tvg-name="TV9" tvg-logo="https://www.goplus.mn/images/repository/836/836-LOGO-m.png" group-title="Монгол сувгууд",TV9
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-name="TV9" tvg-logo="https://www.goplus.mn/images/repository/836/836-LOGO-m.png" group-title="Монгол сувгууд",TV9
 https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd
-#EXTINF:-1, tvg-id="Сүлд ТВ" tvg-name="Сүлд ТВ" tvg-logo="https://www.goplus.mn/images/repository/257/52257-LOGO-m.png" group-title="Монгол сувгууд",Сүлд ТВ
+#EXTINF:-1 tvg-id="Сүлд ТВ" tvg-name="Сүлд ТВ" tvg-logo="https://www.goplus.mn/images/repository/257/52257-LOGO-m.png" group-title="Монгол сувгууд",Сүлд ТВ
 https://cdn4.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
-#EXTINF:-1, tvg-id="TV8" tvg-name="TV8" tvg-name="TV8" tvg-logo="https://www.goplus.mn/images/repository/838/838-LOGO-m.png" group-title="Монгол сувгууд",TV8
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-name="TV8" tvg-logo="https://www.goplus.mn/images/repository/838/838-LOGO-m.png" group-title="Монгол сувгууд",TV8
 https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd
 #EXTINF:-1 tvg-id="MNB Sport" tvg-name="MNB Sport" tvg-logo="https://www.goplus.mn/images/repository/839/839-LOGO-m.png" group-title="Монгол сувгууд",MNB Sport
 https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
-#EXTINF:-1, tvg-id="Mонголын Мэдээ" tvg-name="Mонголын Мэдээ" tvg-name="Mонголын Мэдээ" tvg-logo="https://www.goplus.mn/images/repository/840/840-LOGO-m.png" group-title="Монгол сувгууд",Mонголын Мэдээ
+#EXTINF:-1 tvg-id="Mонголын Мэдээ" tvg-name="Mонголын Мэдээ" tvg-name="Mонголын Мэдээ" tvg-logo="https://www.goplus.mn/images/repository/840/840-LOGO-m.png" group-title="Монгол сувгууд",Mонголын Мэдээ
 https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd
 #EXTINF:-1 tvg-id="MNB world" tvg-name="MNB world" tvg-logo="https://www.goplus.mn/images/repository/179/11179-LOGO-m.png" group-title="Монгол сувгууд",MNB world
 https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
 #EXTINF:-1 tvg-id="MNB Гэр Бүл" tvg-name="MNB Гэр Бүл" tvg-logo="https://www.goplus.mn/images/repository/178/11178-LOGO-m.png" group-title="Монгол сувгууд",MNB Гэр Бүл
 https://cdn4.skygo.mn/live/disk1/MNB_Family/DASH-FTA/MNB_Family.mpd
-#EXTINF:-1, tvg-id="MovieBox" tvg-name="MovieBox" tvg-name="MovieBox" tvg-logo="https://www.goplus.mn/images/repository/841/841-LOGO-m.png" group-title="Монгол сувгууд",MovieBox
+#EXTINF:-1 tvg-id="MovieBox" tvg-name="MovieBox" tvg-name="MovieBox" tvg-logo="https://www.goplus.mn/images/repository/841/841-LOGO-m.png" group-title="Монгол сувгууд",MovieBox
 https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
-#EXTINF:-1, tvg-id="Dream" tvg-name="Dream" tvg-name="Dreambox" tvg-logo="https://www.goplus.mn/images/repository/842/842-LOGO-m.png" group-title="Cartoon",Dreambox
+#EXTINF:-1 tvg-id="Dream" tvg-name="Dream" tvg-name="Dreambox" tvg-logo="https://www.goplus.mn/images/repository/842/842-LOGO-m.png" group-title="Cartoon",Dreambox
 https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd
 #EXTINF:-1 tvg-id="AsianBox" tvg-name="AsianBox" tvg-logo="https://www.goplus.mn/images/repository/445/50445-LOGO-m.png" group-title="Монгол сувгууд",AsianBox
 https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
-#EXTINF:-1, tvg-id="Bloomberg TV MGL" tvg-name="Bloomberg TV MGL" tvg-name="Bloomberg TV MGL" tvg-logo="https://mw.motv.mn/assets/channels/2019/07/29/0/channels_38-5d3e58797d152.png" group-title="Монгол сувгууд",Bloomberg TV MGL
+#EXTINF:-1 tvg-id="Bloomberg TV MGL" tvg-name="Bloomberg TV MGL" tvg-name="Bloomberg TV MGL" tvg-logo="https://mw.motv.mn/assets/channels/2019/07/29/0/channels_38-5d3e58797d152.png" group-title="Монгол сувгууд",Bloomberg TV MGL
 https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
 #EXTINF:-1 tvg-id="Channel 11" tvg-name="Channel 11" tvg-logo="https://www.goplus.mn/images/repository/799/10799-LOGO-m.png" group-title="Монгол сувгууд",Channel 11
 https://cdn4.skygo.mn/live/disk1/Channel11/DASH-FTA/Channel11.mpd
@@ -71,11 +71,11 @@ https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
 https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd
 #EXTINF:-1 tvg-id="Талын Монгол" tvg-name="Талын Монгол" tvg-logo="https://www.goplus.mn/images/repository/444/50444-LOGO-m.png" group-title="Монгол сувгууд",Талын Монгол
 https://cdn6.skygo.mn/live/disk1/TMGLTV/DASH-FTA/TMGLTV.mpd
-#EXTINF:-1, tvg-id="TV7" tvg-name="TV7" tvg-name="TV7" tvg-logo="https://www.goplus.mn/images/repository/189/11189-LOGO-m.png" group-title="Монгол сувгууд",TV7
+#EXTINF:-1 tvg-id="TV7" tvg-name="TV7" tvg-name="TV7" tvg-logo="https://www.goplus.mn/images/repository/189/11189-LOGO-m.png" group-title="Монгол сувгууд",TV7
 https://cdn4.skygo.mn/live/disk1/TV7/DASH-FTA/TV7.mpd
 #EXTINF:-1 tvg-id="Соён гэгээрүүлэгч" tvg-name="Соён гэгээрүүлэгч" tvg-logo="https://www.goplus.mn/images/repository/185/11185-LOGO-m.png" group-title="Монгол сувгууд",Соён гэгээрүүлэгч
 https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.mpd
-#EXTINF:-1, tvg-id="Парламент телевиз" tvg-name="Парламент телевиз" tvg-logo="https://www.goplus.mn/images/repository/845/845-LOGO-m.png" group-title="Монгол сувгууд",Парламент телевиз
+#EXTINF:-1 tvg-id="Парламент телевиз" tvg-name="Парламент телевиз" tvg-logo="https://www.goplus.mn/images/repository/845/845-LOGO-m.png" group-title="Монгол сувгууд",Парламент телевиз
 https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
 #EXTINF:-1 tvg-id="XTV" tvg-name="XTV" tvg-logo="https://www.goplus.mn/images/repository/204/115204-LOGO-m.png" group-title="Монгол сувгууд",XTV
 https://cdn4.skygo.mn/live/disk1/TV4/DASH-FTA/TV4.mpd
@@ -356,45 +356,44 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c8d66671-8c96-4f7e-9efc-df1c6e606965/0.m3u8
 
  
-#EXTINF:-1, tvg-logo="https://www.mnb.mn/images/mini/mradio.jpg" radio="true" group-title="Radio", Монголын радио
+#EXTINF:-1 tvg-id="Монголын радио" tvg-name="Монголын радио" tvg-logo="https://www.mnb.mn/images/mini/mradio.jpg" radio="true" group-title="Radio",Монголын радио
 https://live.mnb.mn/hls/radio1.stream.m3u8
-#EXTINF:-1, tvg-logo="https://www.mnb.mn/images/5.jpg" radio="true" group-title="Radio", P3 FM 100.9
+#EXTINF:-1 tvg-id="P3 FM 100.9" tvg-name="P3 FM 100.9" tvg-logo="https://www.mnb.mn/images/5.jpg" radio="true" group-title="Radio",P3 FM 100.9
 https://live.mnb.mn/hls/radio2.stream.m3u8
-#EXTINF:-1, tvg-logo="http://mntv.xp3.biz/tv/1045.png" radio="true" group-title="Radio", Гэр бүлийн радио 104.5
+#EXTINF:-1 tvg-id="Гэр бүлийн радио 104.5" tvg-name="Гэр бүлийн радио 104.5" tvg-logo="http://mntv.xp3.biz/tv/1045.png" radio="true" group-title="Radio",Гэр бүлийн радио 104.5
 https://c2.radioboss.fm/stream/394
-#EXTINF:-1, tvg-logo="https://cdn.onlineradiobox.com/img/l/0/97510.v22.png" radio="true" group-title="Radio", Элгэн нутаг 96.9
+#EXTINF:-1 tvg-id="Элгэн нутаг 96.9" tvg-name="Элгэн нутаг 96.9" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/97510.v22.png" radio="true" group-title="Radio",Элгэн нутаг 96.9
 https://a6.asurahosting.com:7210/radio.mp3
-#EXTINF:-1, tvg-logo="https://cdn.onlineradiobox.com/img/l/2/88772.v119.png" radio="true" group-title="Radio", RadioSons
+#EXTINF:-1 tvg-id="RadioSons" tvg-name="RadioSons" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/88772.v119.png" radio="true" group-title="Radio",RadioSons
 https://a6.asurahosting.com:7700/radio.mp3
-#EXTINF:-1, tvg-logo="https://cdn.onlineradiobox.com/img/l/1/138171.v1.png" radio="true" group-title="Radio", Antenna Web Mongolia
+#EXTINF:-1 tvg-id="Antenna Web Mongolia" tvg-name="Antenna Web Mongolia" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/138171.v1.png" radio="true" group-title="Radio",Antenna Web Mongolia
 https://italiavera.radioca.st/stream
-#EXTINF:-1, tvg-logo="https://worldradiomap.com/mn/images/shine-dolgion.gif" radio="true" group-title="Radio", Радио Шинэ Долгион
+#EXTINF:-1 tvg-id="Радио Шинэ Долгион" tvg-name="Радио Шинэ Долгион" tvg-logo="https://worldradiomap.com/mn/images/shine-dolgion.gif" radio="true" group-title="Radio",Радио Шинэ Долгион
 https://s2.radio.co/s68086363c/listen
-#EXTINF:-1, tvg-logo="http://mntv.xp3.biz/tv/mglradio.png" radio="true" group-title="Radio", MGLRADIO
+#EXTINF:-1 tvg-id="MGLRADIO" tvg-name="MGLRADIO" tvg-logo="http://mntv.xp3.biz/tv/mglradio.png" radio="true" group-title="Radio",MGLRADIO
 http://74.91.125.187:8096/stream
-#EXTINF:-1, tvg-logo="https://cdn.onlineradiobox.com/img/l/0/101060.v28.png" radio="true" group-title="Radio", Music Plus+
+#EXTINF:-1 tvg-id="Music Plus+" tvg-name="Music Plus+" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/101060.v28.png" radio="true" group-title="Radio",Music Plus+
 https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=10762&type=s1
-#EXTINF:-1, tvg-logo="http://mntv.xp3.biz/tv/bestfm.png" radio="true" group-title="Radio", Best FM - Улаанбаатар 98.5 FM
+#EXTINF:-1 tvg-id="Best FM - Улаанбаатар 98.5 FM" tvg-name="Best FM - Улаанбаатар 98.5 FM" tvg-logo="http://mntv.xp3.biz/tv/bestfm.png" radio="true" group-title="Radio",Best FM - Улаанбаатар 98.5 FM
 http://103.48.116.109:9000/;stream.mp3
 
- 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/FFH-Logo_transparent.svg/2560px-FFH-Logo_transparent.svg.png" radio="true" group-title="Radio", FFH
+#EXTINF:-1 tvg-id="FFH" tvg-name="FFH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/FFH-Logo_transparent.svg/2560px-FFH-Logo_transparent.svg.png" radio="true" group-title="Radio",FFH
 https://mp3.ffh.de/radioffh/hqlivestream.mp3
-#EXTINF:-1, tvg-logo="https://static.ffh.de/fileadmin/fm-dam/ffh.de/pages/musik/webradios/nologo/xmas_nologo_600x600.jpg" radio="true" group-title="Radio", FFH weihnachtsradio
+#EXTINF:-1 tvg-id="FFH weihnachtsradio" tvg-name="FFH weihnachtsradio" tvg-logo="https://static.ffh.de/fileadmin/fm-dam/ffh.de/pages/musik/webradios/nologo/xmas_nologo_600x600.jpg" radio="true" group-title="Radio",FFH weihnachtsradio
 https://mp3.ffh.de/ffhchannels/hqxmas.mp3
-#EXTINF:-1, tvg-logo="https://static.ffh.de/fileadmin/_processed_/c/e/csm_top40_600x600_ohne_ffh_eaf2cc903a.jpg" radio="true" group-title="Radio", FFH iTunes Top 40
+#EXTINF:-1 tvg-id="FFH iTunes Top 40" tvg-name="FFH iTunes Top 40" tvg-logo="https://static.ffh.de/fileadmin/_processed_/c/e/csm_top40_600x600_ohne_ffh_eaf2cc903a.jpg" radio="true" group-title="Radio",FFH iTunes Top 40
 https://mp3.ffh.de/ffhchannels/hqtop40.mp3
-#EXTINF:-1, tvg-logo="https://static.ffh.de/fileadmin/_processed_/6/3/csm_ffh_lounge_nologo_600x600_c2a458f422.jpg" radio="true" group-title="Radio", FFH Lounge
+#EXTINF:-1 tvg-id="FFH Lounge" tvg-name="FFH Lounge" tvg-logo="https://static.ffh.de/fileadmin/_processed_/6/3/csm_ffh_lounge_nologo_600x600_c2a458f422.jpg" radio="true" group-title="Radio",FFH Lounge
 https://mp3.ffh.de/ffhchannels/hqlounge.mp3
-#EXTINF:-1, tvg-logo="https://static.ffh.de/fileadmin/_processed_/4/1/csm_party_nologo_600x600_ff6039c7b2.jpg" radio="true" group-title="Radio", FFH Party
+#EXTINF:-1 tvg-id="FFH Party" tvg-name="FFH Party" tvg-logo="https://static.ffh.de/fileadmin/_processed_/4/1/csm_party_nologo_600x600_ff6039c7b2.jpg" radio="true" group-title="Radio",FFH Party
 https://mp3.ffh.de/ffhchannels/hqparty.mp3
-#EXTINF:-1, tvg-logo="https://static.ffh.de/fileadmin/_processed_/f/e/csm_workout_nologo_600x600_44d9e2fdd2.jpg" radio="true" group-title="Radio", FFH Workout
+#EXTINF:-1 tvg-id="FFH Workout" tvg-name="FFH Workout" tvg-logo="https://static.ffh.de/fileadmin/_processed_/f/e/csm_workout_nologo_600x600_44d9e2fdd2.jpg" radio="true" group-title="Radio",FFH Workout
 https://mp3.ffh.de/ffhchannels/hqworkout.mp3
-#EXTINF:-1, tvg-logo="https://static.planetradio.de/fileadmin/_processed_/7/0/csm_planet_simulcast_1x1_6362baa9c1.jpg" radio="true" group-title="Radio", Planet Radio
+#EXTINF:-1 tvg-id="Planet Radio" tvg-name="Planet Radio" tvg-logo="https://static.planetradio.de/fileadmin/_processed_/7/0/csm_planet_simulcast_1x1_6362baa9c1.jpg" radio="true" group-title="Radio",Planet Radio
 https://mp3.planetradio.de/planetradio/hqlivestream.mp3
-#EXTINF:-1, tvg-logo="https://static.planetradio.de/fileadmin/_processed_/6/6/csm_planet_livecharts_1400x1400_20cdfdd531.jpg" radio="true" group-title="Radio", Planet Radio iTunes Top 40
+#EXTINF:-1 tvg-id="Planet Radio iTunes Top 40" tvg-name="Planet Radio iTunes Top 40" tvg-logo="https://static.planetradio.de/fileadmin/_processed_/6/6/csm_planet_livecharts_1400x1400_20cdfdd531.jpg" radio="true" group-title="Radio",Planet Radio iTunes Top 40
 https://mp3.planetradio.de/plrchannels/hqitunes.mp3
-#EXTINF:-1, tvg-logo="http://mntv.xp3.biz/tv/capitalfm.png" radio="true" group-title="Radio", Capital FM
+#EXTINF:-1 tvg-id="Capital FM" tvg-name="Capital FM" tvg-logo="http://mntv.xp3.biz/tv/capitalfm.png" radio="true" group-title="Radio",Capital FM
 http://media-the.musicradio.com/CapitalUK?type=.flv&amsparams=playerid:UKRP;skey:1493969598;&awparams=kxsegs:||;&kuid=&amsparams%3Dplayerid%3AUKRP%3Bskey%3A1493974001&listenerid=0da14c16f269b02766cf7ea370751054&awparams=companionAds%3Atrue&rpempv=3.1.101;
 
 
