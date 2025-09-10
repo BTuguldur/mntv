@@ -87,7 +87,7 @@ https://cdn4.skygo.mn/live/disk1/AutoTV/DASH-FTA/AutoTV.mpd
 https://cdn4.skygo.mn/live/disk1/GTV/DASH-FTA/GTV.mpd
 #EXTINF:-1 tvg-id="Хөгжим" tvg-name="Хөгжим" tvg-logo="https://www.goplus.mn/images/repository/145/11145-LOGO-m.png" group-title="Монгол сувгууд",Хөгжим
 https://cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
-#EXTINF:-1 tvg-id="Popcorn" tvg-name="Popcorn" tvg-logo="https://www.goplus.mn/images/repository/372/89372-LOGO-m.png" group-title="Kids", Popcorn
+#EXTINF:-1 tvg-id="BanTan" tvg-name="BanTan" tvg-logo="https://www.goplus.mn/images/repository/434/136434-LOGO-m.png" group-title="Kids", BanTan
 https://cdn4.skygo.mn/live/disk1/Popcorn/HLS-FTA/Popcorn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-id="AlbKanaleMusicTV.al" group-title="Gadaad",AlbKanale Music TV
