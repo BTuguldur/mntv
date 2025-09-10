@@ -87,7 +87,7 @@ https://cdn4.skygo.mn/live/disk1/AutoTV/DASH-FTA/AutoTV.mpd
 https://cdn4.skygo.mn/live/disk1/GTV/DASH-FTA/GTV.mpd
 #EXTINF:-1 tvg-id="Хөгжим" tvg-name="Хөгжим" tvg-logo="https://www.goplus.mn/images/repository/145/11145-LOGO-m.png" group-title="Монгол сувгууд",Хөгжим
 https://cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
-#EXTINF:-1 tvg-id="BanTan" tvg-name="BanTan" tvg-logo="https://www.goplus.mn/images/repository/434/136434-LOGO-m.png" group-title="Kids", BanTan
+#EXTINF:-1 tvg-id="BanTan" tvg-name="BanTan" tvg-logo="https://www.goplus.mn/images/repository/434/136434-LOGO-m.png" group-title="Монгол сувгууд", BanTan
 https://cdn4.skygo.mn/live/disk1/Popcorn/HLS-FTA/Popcorn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-id="AlbKanaleMusicTV.al" group-title="Gadaad",AlbKanale Music TV
@@ -231,21 +231,21 @@ https://cdn4.skygo.mn/live/disk1/SPSPlus/DASH-FTA/SPSPlus.mpd
 
 
 
-#EXTINF:-1 tvg-id="MoonBug" tvg-name="MoonBug" tvg-logo="https://www.goplus.mn/images/repository/976/111976-LOGO-m.png" group-title="Kids", MoonBug
+#EXTINF:-1 tvg-id="MoonBug" tvg-name="MoonBug" tvg-logo="https://www.goplus.mn/images/repository/976/111976-LOGO-m.png" group-title="Cartoon", MoonBug
 https://cdn4.skygo.mn/live/disk1/Moonbug/LTV-FOREIGN-DASH-FTA/Moonbug.mpd
-#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://www.goplus.mn/images/repository/774/56774-LOGO-m.png" group-title="Kids", ZooMoo
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://www.goplus.mn/images/repository/774/56774-LOGO-m.png" group-title="Cartoon", ZooMoo
 https://cdn4.skygo.mn/live/disk1/Zoomoo/LTV-FOREIGN-DASH-FTA/Zoomoo.mpd
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CartoonNetwork" tvg-logo="https://www.goplus.mn/images/repository/877/877-LOGO-m.png" group-title="Kids", CartoonNetwork
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CartoonNetwork" tvg-logo="https://www.goplus.mn/images/repository/877/877-LOGO-m.png" group-title="Cartoon", CartoonNetwork
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/LTV-FOREIGN-DASH-FTA/Cartoon_Network.mpd
-#EXTINF:-1 tvg-id="Cbeebies" tvg-name="Cbeebies" tvg-logo="https://www.goplus.mn/images/repository/879/879-LOGO-m.png" group-title="Kids", Cbeebies
+#EXTINF:-1 tvg-id="Cbeebies" tvg-name="Cbeebies" tvg-logo="https://www.goplus.mn/images/repository/879/879-LOGO-m.png" group-title="Cartoon", Cbeebies
 https://cdn4.skygo.mn/live/disk1/Cbeebies/LTV-FOREIGN-DASH-FTA/Cbeebies.mpd
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://www.goplus.mn/images/repository/443/50443-LOGO-m.png" group-title="Kids",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://www.goplus.mn/images/repository/443/50443-LOGO-m.png" group-title="Cartoon",Cartoonito
 https://cdn4.skygo.mn/live/disk1/Boomerang/LTV-FOREIGN-DASH-FTA/Boomerang.mpd
-#EXTINF:-1 tvg-id="O!" tvg-name="O!" tvg-logo="https://www.goplus.mn/images/repository/091/15091-LOGO-m.png" group-title="Kids", O!
+#EXTINF:-1 tvg-id="O!" tvg-name="O!" tvg-logo="https://www.goplus.mn/images/repository/091/15091-LOGO-m.png" group-title="Cartoon", O!
 https://cdn4.skygo.mn/live/disk1/O_Int/LTV-FOREIGN-DASH-FTA/O_Int.mpd
-#EXTINF:-1 tvg-id="CCTV 14" tvg-name="CCTV 14" tvg-logo="https://www.goplus.mn/images/repository/885/885-LOGO-m.png" group-title="Kids", CCTV 14
+#EXTINF:-1 tvg-id="CCTV 14" tvg-name="CCTV 14" tvg-logo="https://www.goplus.mn/images/repository/885/885-LOGO-m.png" group-title="Cartoon", CCTV 14
 https://cdn4.skygo.mn/live/disk1/CCTV-14/LTV-FOREIGN-DASH-FTA/CCTV-14.mpd
-#EXTINF:-1 tvg-id="Карусель" tvg-name="Карусель" tvg-logo="https://www.goplus.mn/images/repository/880/880-LOGO-m.png" group-title="Kids", Карусель
+#EXTINF:-1 tvg-id="Карусель" tvg-name="Карусель" tvg-logo="https://www.goplus.mn/images/repository/880/880-LOGO-m.png" group-title="Cartoon", Карусель
 https://cdn4.skygo.mn/live/disk1/Karusel/LTV-FOREIGN-DASH-FTA/Karusel.mpd
 
 
