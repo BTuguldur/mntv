@@ -92,11 +92,11 @@ https://cdn4.skygo.mn/live/disk1/Popcorn/HLS-FTA/Popcorn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-id="AlbKanaleMusicTV.al" group-title="Gadaad",AlbKanale Music TV
 https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" group-title="Germany",DELUXE MUSIC
+#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" group-title="Gadaad",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-name="DELUXE MUSIC DANCE BY KONTOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deluxe_Dance_by_Kontor_Logo_2023.svg/666px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png" tvg-id="DeluxeMusicDanceByKontor.de" group-title="Germany",DELUXE MUSIC DANCE BY KONTOR
+#EXTINF:-1 tvg-name="DELUXE MUSIC DANCE BY KONTOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deluxe_Dance_by_Kontor_Logo_2023.svg/666px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png" tvg-id="DeluxeMusicDanceByKontor.de" group-title="Gadaad",DELUXE MUSIC DANCE BY KONTOR
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 tvg-id="Deluxe Lounge HD" tvg-name="Deluxe Lounge HD" tvg-logo="https://i.imgur.com/LzIsXym.png" group-title="VOD Italy",Deluxe Lounge HD
+#EXTINF:-1 tvg-id="Deluxe Lounge HD" tvg-name="Deluxe Lounge HD" tvg-logo="https://i.imgur.com/LzIsXym.png" group-title="Gadaad",Deluxe Lounge HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8
 
 #EXTINF:-1 tvg-id="Warner" tvg-name="Warner" tvg-logo="https://www.goplus.mn/images/repository/851/851-LOGO-m.png" group-title="Gadaad", Warner
@@ -148,7 +148,7 @@ https://cdn4.skygo.mn/live/disk1/NHK_World/LTV-FOREIGN-DASH-FTA/NHK_World.mpd
 
 
 
-#EXTINF:-1 tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png" tvg-id="GBNews.uk" group-title="UK",GB News
+#EXTINF:-1 tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png" tvg-id="GBNews.uk" group-title="Gadaad",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://m.media-amazon.com/images/I/31TqBcQUlcL.png" group-title="Gadaad",Al Jazeera
@@ -292,13 +292,13 @@ http://fortv.cc:8080/7800481/6074514/160026
 http://fortv.cc:8080/7800481/6074514/160011
 
 
-#EXTINF:-1 tvg-id="X4 | Casting Couch" tvg-name="X4 | Casting Couch" tvg-logo="https://castingcouch-x.com/images/sites/castingcouch-x/logo.png" group-title="XXX CHANNELS",X4 | Casting Couch
+#EXTINF:-1 tvg-id="X4 | Casting Couch" tvg-name="X4 | Casting Couch" tvg-logo="https://castingcouch-x.com/images/sites/castingcouch-x/logo.png" group-title="Adult",X4 | Casting Couch
 http://fortv.cc:8080/7800481/6074514/215503
-#EXTINF:-1 tvg-id="X4 | Hentai" tvg-name="X4 | Hentai" tvg-logo="https://fusionpopculture.com/cdn/shop/products/90e9f7332e58cd8a9a95b31b9c5a02fe_1024x1024@2x.jpg" group-title="XXX CHANNELS",X4 | Hentai
+#EXTINF:-1 tvg-id="X4 | Hentai" tvg-name="X4 | Hentai" tvg-logo="https://fusionpopculture.com/cdn/shop/products/90e9f7332e58cd8a9a95b31b9c5a02fe_1024x1024@2x.jpg" group-title="Adult",X4 | Hentai
 http://fortv.cc:8080/7800481/6074514/215574
-#EXTINF:-1 tvg-id="X4 | Japan Uncensored" tvg-name="X4 | Japan Uncensored" tvg-logo="https://www.freestock.com/450/freestock_427015345.jpg" group-title="XXX CHANNELS",X4 | Japan Uncensored
+#EXTINF:-1 tvg-id="X4 | Japan Uncensored" tvg-name="X4 | Japan Uncensored" tvg-logo="https://www.freestock.com/450/freestock_427015345.jpg" group-title="Adult",X4 | Japan Uncensored
 http://fortv.cc:8080/7800481/6074514/215583
-#EXTINF:-1 tvg-id="X4 | Tiktok" tvg-name="X4 | Tiktok" tvg-logo="https://cdn.prod.website-files.com/5c29380b1110ec92a203aa84/5dede154cad2171df5e07412_image.png" group-title="XXX CHANNELS",X4 | Tiktok
+#EXTINF:-1 tvg-id="X4 | Tiktok" tvg-name="X4 | Tiktok" tvg-logo="https://cdn.prod.website-files.com/5c29380b1110ec92a203aa84/5dede154cad2171df5e07412_image.png" group-title="Adult",X4 | Tiktok
 http://fortv.cc:8080/7800481/6074514/215770
 
 #EXTINF:-1 tvg-id="Desire" tvg-name="Desire" tvg-logo="https://www.desirewrites.com/wp-content/uploads/2021/02/desire-writes-logo@2x-2.png" group-title="Adult",Desire
