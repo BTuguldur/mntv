@@ -148,7 +148,7 @@ https://cdn3.skygo.mn/live/disk1/NHK_World/LTV-FOREIGN-DASH-FTA/NHK_World.mpd
 
 
 
-#EXTINF:-1 tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png" tvg-id="GBNews.uk" group-title="Gadaad",GB News
+#EXTINF:-1 tvg-name="GB News" tvg-logo="https://media.info/l/o/7/7421.1617213289.png" tvg-id="GBNews.uk" group-title="Gadaad",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://m.media-amazon.com/images/I/31TqBcQUlcL.png" group-title="Gadaad",Al Jazeera
