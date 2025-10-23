@@ -159,7 +159,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 https://livetv-fa.tubi.video/ktbc/index.m3u8
 #EXTINF:-1 tvg-id="CNBC world" tvg-name="CNBC world" tvg-logo="https://www.goplus.mn/images/repository/530/131530-LOGO-m.png" group-title="Gadaad",CNBC world
 https://livetv-fa.tubi.video/nbc-news-now/master_1.m3u8
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png" group-title="Gadaad",CNA
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/7f/83/4e7f837b-efdf-07b5-b3b7-3c8cb8896794/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/256x256bb.jpg" group-title="Gadaad",CNA
 https://mediacorp-videosbclive.akamaized.net/8a496e61361c4079a0e16d8f09e79df9/ap-southeast-1/6057994443001/playlist.m3u8
 #EXTINF:-1 tvg-id="SKY news" tvg-name="SKY news" tvg-logo="https://mir-s3-cdn-cf.behance.net/user/276/10dc1e1681627.6157382cafd3b.png" group-title="Gadaad",SKY news
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist720p.m3u8
