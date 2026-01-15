@@ -155,7 +155,7 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 https://live-hls-web-aje-gcp.thehlive.com/AJE/04.m3u8
 #EXTINF:-1 tvg-id="CBS News" tvg-name="CBS News" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/cbs-news-vector-logo.png" group-title="Gadaad",CBS News
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=870d3aac-da79-4239-a021-82bea2a622d2
-#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Gadaad",Fox News
+#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-logo="https://shop.foxnews.com/cdn/shop/files/fox_news_logo-min_1920x.jpg" group-title="Gadaad",Fox News
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 tvg-id="NBC News" tvg-name="NBC News" tvg-logo="https://i.postimg.cc/SNK739rT/nbcnewsnow.png" group-title="Gadaad",NBC News
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
