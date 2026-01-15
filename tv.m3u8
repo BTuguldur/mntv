@@ -155,15 +155,21 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 https://live-hls-web-aje-gcp.thehlive.com/AJE/04.m3u8
 #EXTINF:-1 tvg-id="CBS News" tvg-name="CBS News" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/cbs-news-vector-logo.png" group-title="Gadaad",CBS News
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=870d3aac-da79-4239-a021-82bea2a622d2
-#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Fox_news_channel_logo.png" group-title="Gadaad",Fox News
-https://livetv-fa.tubi.video/ktbc/index.m3u8
-#EXTINF:-1 tvg-id="CNBC world" tvg-name="CNBC world" tvg-logo="https://www.goplus.mn/images/repository/530/131530-LOGO-m.png" group-title="Gadaad",CNBC world
-https://livetv-fa.tubi.video/nbc-news-now/master_1.m3u8
+#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Gadaad",Fox News
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+#EXTINF:-1 tvg-id="NBC News" tvg-name="NBC News" tvg-logo="https://i.postimg.cc/SNK739rT/nbcnewsnow.png" group-title="Gadaad",NBC News
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
+#EXTINF:-1 tvg-id="Reuters TV" tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="Gadaad",Reuters TV
+https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/7f/83/4e7f837b-efdf-07b5-b3b7-3c8cb8896794/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/256x256bb.jpg" group-title="Gadaad",CNA
 https://mediacorp-videosbclive.akamaized.net/8a496e61361c4079a0e16d8f09e79df9/ap-southeast-1/6057994443001/playlist.m3u8
 #EXTINF:-1 tvg-id="SKY news" tvg-name="SKY news" tvg-logo="https://mir-s3-cdn-cf.behance.net/user/276/10dc1e1681627.6157382cafd3b.png" group-title="Gadaad",SKY news
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist720p.m3u8
 
+#EXTINF:-1 tvg-id="Pro 7" tvg-name="Pro 7" tvg-logo="https://i.postimg.cc/CxKLHbyS/prosieben.png" group-title="Gadaad",Pro 7
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Made in Hollywood" tvg-name="Made in Hollywood" tvg-logo="https://i.imgur.com/p16HNIM.png" group-title="Gadaad",Made in Hollywood
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Rakuten German" tvg-name="Rakuten German" tvg-logo="https://cdn6.aptoide.com/imgs/1/8/b/18bce0f0d9115b1b33d644bda68dcb53_icon.png" group-title="Gadaad",Rakuten German
 https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
 #EXTINF:-1 tvg-id="Rakuten German" tvg-name="Rakuten German" tvg-logo="https://cdn6.aptoide.com/imgs/1/8/b/18bce0f0d9115b1b33d644bda68dcb53_icon.png" group-title="Gadaad",Rakuten German top
@@ -370,10 +376,13 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-id="Fasion tv Paris HD" tvg-name="Fasion tv Paris HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png" group-title="News",Fasion tv Paris HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Fasion tv" tvg-name="Fasion tv" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png" group-title="News",Fasion tv
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Kaloopy" tvg-name="Kaloopy" tvg-logo="https://i1.sndcdn.com/avatars-000599519394-hegjf1-t200x200.jpg" group-title="News",Kaloopy
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.dpname=distrotv&ads.rnd=9uvb&ads.env_i=a130519d-cd9e-4c3a-8fd7-dead465046d3&ads.env_u=487dabb5-35c2-4f93-b0cd-897f32ceced1&ads.name=DistroTV&ads.bundle=undefined&ads.storeurl=undefined&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=1140&ads.height=641&ads.deviceId=487dabb5-35c2-4f93-b0cd-897f32ceced1&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=487dabb5-35c2-4f93-b0cd-897f32ceced1&ads.deviceMake=Web&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=103.212.162.92&ads.geo=MN&ads.lat=46.00000&ads.long=105.00000&ads.dma=false&ads.geoType=2&ads.contentid=22868&ads.content_duration=18000&ads.episode_id=73234&ads.show_id=1093&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CLifestyle%2CSports%2CMusic%2CGaming%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Kaloopy&ads.episodetitle=Kaloopy&ads.keywords=Nascar%2Cmens%20lifestyle%2Ccall%20of%20duty%2Cgaming%2Cfitness%2Ctech%2Cmens%20fashion%2Chouse%20music%2Cmotorcycles%2Ccars%2Csoccer%2Cmotorsport%2Ctravel%2Cbeach%2Ccalifornia%2Cufc%2Cmilitary%2Csurfing%2Cskating%2Cfashion&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Fembed_episode.html%3Fshow%3Dkaloopy&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20250823
-
+#EXTINF:-1 tvg-id="Miami Swim Shows" tvg-name="Miami Swim Shows" tvg-logo="https://bx-tv.com/wp-content/uploads/2025/09/miami-swim.jpg" group-title="News",Miami Swim Shows
+https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-id="Монголын радио" tvg-name="Монголын радио" tvg-logo="https://www.mnb.mn/images/mini/mradio.jpg" radio="true" group-title="Radio",Монголын радио
 https://live.mnb.mn/hls/radio1.stream.m3u8
