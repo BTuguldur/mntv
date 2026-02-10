@@ -125,7 +125,7 @@ https://cdn3.skygo.mn/live/disk1/AnimalPlanet/LTV-FOREIGN-DASH-FTA/AnimalPlanet.
 https://cdn3.skygo.mn/live/disk1/CGTN_Doc/LTV-FOREIGN-DASH-FTA/CGTN_Doc.mpd
 #EXTINF:-1 tvg-id="Trace Urban" tvg-name="Trace Urban" tvg-logo="https://www.goplus.mn/images/repository/875/875-LOGO-m.png" group-title="Gadaad", Trace Urban
 https://cdn3.skygo.mn/live/disk1/Trace_Urban/LTV-FOREIGN-DASH-FTA/Trace_Urban.mpd
-#EXTINF:-1 tvg-id="FasionTv" tvg-name="FasionTv" tvg-logo="https://www.goplus.mn/images/repository/093/15093-LOGO-m.png" group-title="Gadaad",FasionTv
+#EXTINF:-1 tvg-id="FasionTv" tvg-name="FasionTv" tvg-logo="https://www.goplus.mn/images/repository/101/146101-LOGO-m.png" group-title="Gadaad",CTC Love
 https://cdn3.skygo.mn/live/disk1/Fashion_TV/LTV-FOREIGN-DASH-FTA/Fashion_TV.mpd
 #EXTINF:-1 tvg-id="KBS Korea" tvg-name="KBS Korea" tvg-logo="https://www.goplus.mn/images/repository/088/15088-LOGO-m.png" group-title="Gadaad",KBS Korea
 https://cdn3.skygo.mn/live/disk1/KBS_World_24/LTV-FOREIGN-DASH-FTA/KBS_World_24.mpd
@@ -318,7 +318,7 @@ http://31.148.48.15/O-la-la/index.m3u8
 http://185.255.120.120:8080/live/MLS003/qZj4zbPNDn/104811.m3u8
 #EXTINF:-1 tvg-id="EXXXotica" tvg-name="EXXXotica" tvg-logo="http://betatv.by/thumb/2/qoCKeNsGvowlo94Ur2dd7Q/230c230/d/russkaya_noch_2018.png" group-title="Adult",Russkaya Noch
 http://31.148.48.15/Russkaya_Noch/playlist.m3u8
-#EXTINF:-1 tvg-id="EXXXotica" tvg-name="EXXXotica" tvg-logo="https://m.media-amazon.com/images/I/41voQGoAhaL._AC_UF894,1000_QL80_.jpg" group-title="Adult",PlayBoy
+#EXTINF:-1 tvg-id="EXXXotica" tvg-name="EXXXotica" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0018/6019/brand.gif" group-title="Adult",PlayBoy
 http://31.148.48.15/Playboy_TV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Brazzers" tvg-name="Brazzers" tvg-logo="https://logowik.com/content/uploads/images/316_brazzers.jpg" group-title="Adult",Brazzers
@@ -405,18 +405,16 @@ https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=10762&type
 #EXTINF:-1 tvg-id="Best FM - Улаанбаатар 98.5 FM" tvg-name="Best FM - Улаанбаатар 98.5 FM" tvg-logo="http://mntv.xp3.biz/tv/bestfm.png" radio="true" group-title="Radio",Best FM - Улаанбаатар 98.5 FM
 http://103.48.116.109:9000/;stream.mp3
 
-#EXTINF:-1 tvg-id="FFH" tvg-name="FFH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/FFH-Logo_transparent.svg/2560px-FFH-Logo_transparent.svg.png" radio="true" group-title="Radio",FFH
+#EXTINF:-1 tvg-id="FFH" tvg-name="FFH" tvg-logo="https://static.ffh.de/fileadmin/_processed_/8/6/csm_FFH_600x600_0fff54330c.jpg" radio="true" group-title="Radio",FFH
 https://mp3.ffh.de/radioffh/hqlivestream.mp3
-#EXTINF:-1 tvg-id="FFH weihnachtsradio" tvg-name="FFH weihnachtsradio" tvg-logo="https://static.ffh.de/fileadmin/fm-dam/ffh.de/pages/musik/webradios/nologo/xmas_nologo_600x600.jpg" radio="true" group-title="Radio",FFH weihnachtsradio
+#EXTINF:-1 tvg-id="FFH weihnachtsradio" tvg-name="FFH weihnachtsradio" tvg-logo="https://static.ffh.de/fileadmin/_processed_/8/0/csm_ffh_xmas_600x600_ac58e37479.jpg" radio="true" group-title="Radio",FFH weihnachtsradio
 https://mp3.ffh.de/ffhchannels/hqxmas.mp3
-#EXTINF:-1 tvg-id="FFH iTunes Top 40" tvg-name="FFH iTunes Top 40" tvg-logo="https://static.ffh.de/fileadmin/_processed_/c/e/csm_top40_600x600_ohne_ffh_eaf2cc903a.jpg" radio="true" group-title="Radio",FFH iTunes Top 40
+#EXTINF:-1 tvg-id="FFH iTunes Top 40" tvg-name="FFH iTunes Top 40" tvg-logo="https://static.ffh.de/fileadmin/_processed_/c/e/csm_top40_600x600_ohne_ffh_a16e2a8418.jpg" radio="true" group-title="Radio",FFH iTunes Top 40
 https://mp3.ffh.de/ffhchannels/hqtop40.mp3
-#EXTINF:-1 tvg-id="FFH Lounge" tvg-name="FFH Lounge" tvg-logo="https://static.ffh.de/fileadmin/_processed_/6/3/csm_ffh_lounge_nologo_600x600_c2a458f422.jpg" radio="true" group-title="Radio",FFH Lounge
+#EXTINF:-1 tvg-id="FFH Lounge" tvg-name="FFH Lounge" tvg-logo="https://static.ffh.de/fileadmin/_processed_/6/3/csm_ffh_lounge_nologo_600x600_3640d22304.jpg" radio="true" group-title="Radio",FFH Lounge
 https://mp3.ffh.de/ffhchannels/hqlounge.mp3
-#EXTINF:-1 tvg-id="FFH Party" tvg-name="FFH Party" tvg-logo="https://static.ffh.de/fileadmin/_processed_/4/1/csm_party_nologo_600x600_ff6039c7b2.jpg" radio="true" group-title="Radio",FFH Party
+#EXTINF:-1 tvg-id="FFH Party" tvg-name="FFH Party" tvg-logo="https://static.ffh.de/fileadmin/_processed_/2/f/csm_justparty_600x600_nologo_507f1f0e00.jpg" radio="true" group-title="Radio",FFH Party
 https://mp3.ffh.de/ffhchannels/hqparty.mp3
-#EXTINF:-1 tvg-id="FFH Workout" tvg-name="FFH Workout" tvg-logo="https://static.ffh.de/fileadmin/_processed_/f/e/csm_workout_nologo_600x600_44d9e2fdd2.jpg" radio="true" group-title="Radio",FFH Workout
-https://mp3.ffh.de/ffhchannels/hqworkout.mp3
 #EXTINF:-1 tvg-id="Planet Radio" tvg-name="Planet Radio" tvg-logo="https://static.planetradio.de/fileadmin/_processed_/7/0/csm_planet_simulcast_1x1_6362baa9c1.jpg" radio="true" group-title="Radio",Planet Radio
 https://mp3.planetradio.de/planetradio/hqlivestream.mp3
 #EXTINF:-1 tvg-id="Planet Radio iTunes Top 40" tvg-name="Planet Radio iTunes Top 40" tvg-logo="https://static.planetradio.de/fileadmin/_processed_/6/6/csm_planet_livecharts_1400x1400_20cdfdd531.jpg" radio="true" group-title="Radio",Planet Radio iTunes Top 40
