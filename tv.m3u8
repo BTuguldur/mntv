@@ -9,59 +9,59 @@ https://cdn3.skygo.mn/live/disk1/CNBC/DASH-FTA/CNBC.mpd
 
 #EXTINF:-1 tvg-id="MongolHD plus 1" tvg-name="MongolHD plus 1" tvg-logo="https://www.goplus.mn/images/repository/232/57232-LOGO-m.png" group-title="Монгол сувгууд",MongolHD plus 1
 https://cdn3.skygo.mn/live/disk1/VolumePlus/DASH-FTA/VolumePlus.mpd
-#EXTINF:-1 tvg-id="Монгол ТВ" tvg-name="Монгол ТВ" tvg-name="Монгол ТВ" tvg-logo="https://www.goplus.mn/images/repository/796/102796-LOGO-m.png" group-title="Монгол сувгууд",Монгол ТВ
+#EXTINF:-1 tvg-id="Монгол ТВ" tvg-name="Монгол ТВ" tvg-logo="https://www.goplus.mn/images/repository/796/102796-LOGO-m.png" group-title="Монгол сувгууд",Монгол ТВ
 https://cdn1.skygo.mn/live/disk1/Mongol_HD/LTV-MONGOLIA-DASH-CPIX/Mongol_HD.mpd
-#EXTINF:-1 tvg-id="МҮОНТ" tvg-name="МҮОНТ" tvg-name="МҮОНТ" tvg-logo="https://www.goplus.mn/images/repository/821/821-LOGO-m.png" group-title="Монгол сувгууд",МҮОНТ
+#EXTINF:-1 tvg-id="МҮОНТ" tvg-name="МҮОНТ" tvg-logo="https://www.goplus.mn/images/repository/821/821-LOGO-m.png" group-title="Монгол сувгууд",МҮОНТ
 https://cdn3.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd
-#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-name="NTV" tvg-logo="https://www.goplus.mn/images/repository/822/822-LOGO-m.png" group-title="Монгол сувгууд",NTV
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://www.goplus.mn/images/repository/822/822-LOGO-m.png" group-title="Монгол сувгууд",NTV
 https://cdn3.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
-#EXTINF:-1 tvg-id="Star TV" tvg-name="Star TV" tvg-name="Star TV" tvg-logo="https://mw.motv.mn/assets/channels/2021/07/23/22/channels_34-60fa30cd437c7.png" group-title="Монгол сувгууд",Star TV
+#EXTINF:-1 tvg-id="Star TV" tvg-name="Star TV" tvg-logo="https://mw.motv.mn/assets/channels/2021/07/23/22/channels_34-60fa30cd437c7.png" group-title="Монгол сувгууд",Star TV
 https://cdn3.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd 
-#EXTINF:-1 tvg-id="UBS-1" tvg-name="UBS-1" tvg-name="UBS-1" tvg-logo="https://www.goplus.mn/images/repository/824/824-LOGO-m.png" tvg-name="UBS" group-title="Монгол сувгууд",UBS-1
+#EXTINF:-1 tvg-id="UBS-1" tvg-name="UBS-1" tvg-logo="https://www.goplus.mn/images/repository/824/824-LOGO-m.png" tvg-name="UBS" group-title="Монгол сувгууд",UBS-1
 https://cdn3.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
-#EXTINF:-1 tvg-id="TV5" tvg-name="TV5" tvg-name="TV5" tvg-logo="https://www.goplus.mn/images/repository/825/825-LOGO-m.png" group-title="Монгол сувгууд",TV5
+#EXTINF:-1 tvg-id="TV5" tvg-name="TV5" tvg-logo="https://www.goplus.mn/images/repository/825/825-LOGO-m.png" group-title="Монгол сувгууд",TV5
 https://cdn3.skygo.mn/live/disk1/TV5HD/DASH-FTA/TV5HD.mpd
-#EXTINF:-1 tvg-id="MN25" tvg-name="MN25" tvg-name="MN25" tvg-logo="https://www.goplus.mn/images/repository/436/6436-LOGO-m.png" group-title="Монгол сувгууд",MN25
+#EXTINF:-1 tvg-id="MN25" tvg-name="MN25" tvg-logo="https://www.goplus.mn/images/repository/436/6436-LOGO-m.png" group-title="Монгол сувгууд",MN25
 https://cdn3.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd
-#EXTINF:-1 tvg-id="Боловсрол ТВ" tvg-name="Боловсрол ТВ" tvg-name="Боловсрол ТВ" tvg-logo="https://www.goplus.mn/images/repository/827/827-LOGO-m.png" group-title="Монгол сувгууд",Боловсрол ТВ
+#EXTINF:-1 tvg-id="EDU" tvg-name="EDU" tvg-logo="https://www.goplus.mn/images/repository/827/827-LOGO-m.png" group-title="Монгол сувгууд",EDU
 https://cdn3.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
-#EXTINF:-1 tvg-id="Central TV" tvg-name="Central TV" tvg-name="Central TV" tvg-logo="https://www.goplus.mn/images/repository/203/106203-LOGO-m.png" group-title="Монгол сувгууд",Central TV
+#EXTINF:-1 tvg-id="Central-TV" tvg-name="Central-TV" tvg-logo="https://www.goplus.mn/images/repository/203/106203-LOGO-m.png" group-title="Монгол сувгууд",Central-TV
 https://cdn3.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd
 #EXTINF:-1 tvg-id="Eagle" tvg-name="Eagle" tvg-logo="https://www.goplus.mn/images/repository/829/829-LOGO-m.png" group-title="Монгол сувгууд",Eagle
 https://cdn3.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd
-#EXTINF:-1 tvg-id="C1" tvg-name="C1" tvg-name="C1" tvg-logo="https://www.goplus.mn/images/repository/830/830-LOGO-m.png" group-title="Монгол сувгууд",C1
+#EXTINF:-1 tvg-id="C1" tvg-name="C1" tvg-logo="https://www.goplus.mn/images/repository/830/830-LOGO-m.png" group-title="Монгол сувгууд",C1
 https://cdn3.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd
-#EXTINF:-1 tvg-id="ETV HD" tvg-name="ETV HD" tvg-name="ETV HD" tvg-logo="https://www.goplus.mn/images/repository/831/831-LOGO-m.png" group-title="Монгол сувгууд",ETV HD
+#EXTINF:-1 tvg-id="ETV" tvg-name="ETV" tvg-logo="https://www.goplus.mn/images/repository/831/831-LOGO-m.png" group-title="Монгол сувгууд",ETV
 https://cdn3.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
 #EXTINF:-1 tvg-id="TenGerTV" tvg-name="TenGerTV" tvg-logo="https://www.goplus.mn/images/repository/832/832-LOGO-m.png" group-title="Монгол сувгууд",TenGerTV
 https://cdn3.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd
-#EXTINF:-1 tvg-id="SBN" tvg-name="SBN" tvg-name="SBN" tvg-logo="https://www.goplus.mn/images/repository/833/833-LOGO-m.png" group-title="Монгол сувгууд",SBN
+#EXTINF:-1 tvg-id="SBN" tvg-name="SBN" tvg-logo="https://www.goplus.mn/images/repository/833/833-LOGO-m.png" group-title="Монгол сувгууд",SBN
 https://cdn3.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd
 #EXTINF:-1 tvg-id="TM" tvg-name="TM" tvg-logo="https://www.goplus.mn/images/repository/834/834-LOGO-m.png" group-title="Монгол сувгууд",TM
 https://cdn3.skygo.mn/live/disk1/TM/DASH-FTA/TM.mpd
-#EXTINF:-1 tvg-id="Малчин HD" tvg-name="Малчин HD" tvg-logo="https://www.goplus.mn/images/repository/941/111941-LOGO-m.png" group-title="Монгол сувгууд",Малчин HD
+#EXTINF:-1 tvg-id="Malchin" tvg-name="Malchin" tvg-logo="https://www.goplus.mn/images/repository/941/111941-LOGO-m.png" group-title="Монгол сувгууд",Malchin
 https://cdn3.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
-#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-name="TV9" tvg-logo="https://www.goplus.mn/images/repository/836/836-LOGO-m.png" group-title="Монгол сувгууд",TV9
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://www.goplus.mn/images/repository/836/836-LOGO-m.png" group-title="Монгол сувгууд",TV9
 https://cdn3.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd
-#EXTINF:-1 tvg-id="Сүлд ТВ" tvg-name="Сүлд ТВ" tvg-logo="https://www.goplus.mn/images/repository/257/52257-LOGO-m.png" group-title="Монгол сувгууд",Сүлд ТВ
+#EXTINF:-1 tvg-id="Suld" tvg-name="Suld" tvg-logo="https://www.goplus.mn/images/repository/257/52257-LOGO-m.png" group-title="Монгол сувгууд",Suld
 https://cdn3.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
-#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-name="TV8" tvg-logo="https://www.goplus.mn/images/repository/838/838-LOGO-m.png" group-title="Монгол сувгууд",TV8
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="https://www.goplus.mn/images/repository/838/838-LOGO-m.png" group-title="Монгол сувгууд",TV8
 https://cdn3.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd
 #EXTINF:-1 tvg-id="MNB Sport" tvg-name="MNB Sport" tvg-logo="https://www.goplus.mn/images/repository/839/839-LOGO-m.png" group-title="Монгол сувгууд",MNB Sport
 https://cdn3.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
-#EXTINF:-1 tvg-id="Mонголын Мэдээ" tvg-name="Mонголын Мэдээ" tvg-name="Mонголын Мэдээ" tvg-logo="https://www.goplus.mn/images/repository/840/840-LOGO-m.png" group-title="Монгол сувгууд",Mонголын Мэдээ
+#EXTINF:-1 tvg-id="МҮОНТМэдээ" tvg-name="МҮОНТМэдээ" tvg-logo="https://www.goplus.mn/images/repository/840/840-LOGO-m.png" group-title="Монгол сувгууд",MNB2
 https://cdn3.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd
 #EXTINF:-1 tvg-id="MNB world" tvg-name="MNB world" tvg-logo="https://www.goplus.mn/images/repository/179/11179-LOGO-m.png" group-title="Монгол сувгууд",MNB world
 https://cdn3.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
 #EXTINF:-1 tvg-id="MNB Гэр Бүл" tvg-name="MNB Гэр Бүл" tvg-logo="https://www.goplus.mn/images/repository/178/11178-LOGO-m.png" group-title="Монгол сувгууд",MNB Гэр Бүл
 https://cdn3.skygo.mn/live/disk1/MNB_Family/DASH-FTA/MNB_Family.mpd
-#EXTINF:-1 tvg-id="MovieBox" tvg-name="MovieBox" tvg-name="MovieBox" tvg-logo="https://www.goplus.mn/images/repository/841/841-LOGO-m.png" group-title="Монгол сувгууд",MovieBox
+#EXTINF:-1 tvg-id="MovieBox" tvg-name="MovieBox" tvg-logo="https://www.goplus.mn/images/repository/841/841-LOGO-m.png" group-title="Монгол сувгууд",MovieBox
 https://cdn3.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
-#EXTINF:-1 tvg-id="Dream" tvg-name="Dream" tvg-name="Dreambox" tvg-logo="https://www.goplus.mn/images/repository/842/842-LOGO-m.png" group-title="Cartoon",Dreambox
+#EXTINF:-1 tvg-id="Dreambox" tvg-name="Dreambox" tvg-logo="https://www.goplus.mn/images/repository/842/842-LOGO-m.png" group-title="Cartoon",Dreambox
 https://cdn3.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd
 #EXTINF:-1 tvg-id="AsianBox" tvg-name="AsianBox" tvg-logo="https://www.goplus.mn/images/repository/445/50445-LOGO-m.png" group-title="Монгол сувгууд",AsianBox
 https://cdn3.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
-#EXTINF:-1 tvg-id="Bloomberg TV MGL" tvg-name="Bloomberg TV MGL" tvg-name="Bloomberg TV MGL" tvg-logo="https://mw.motv.mn/assets/channels/2019/07/29/0/channels_38-5d3e58797d152.png" group-title="Монгол сувгууд",Bloomberg TV MGL
+#EXTINF:-1 tvg-id="BloombergMN" tvg-name="BloombergMN" tvg-logo="https://mw.motv.mn/assets/channels/2019/07/29/0/channels_38-5d3e58797d152.png" group-title="Монгол сувгууд",BloombergMN
 https://cdn3.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
 #EXTINF:-1 tvg-id="Channel 11" tvg-name="Channel 11" tvg-logo="https://www.goplus.mn/images/repository/799/10799-LOGO-m.png" group-title="Монгол сувгууд",Channel 11
 https://cdn3.skygo.mn/live/disk1/Channel11/DASH-FTA/Channel11.mpd
@@ -71,11 +71,11 @@ https://cdn3.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
 https://cdn3.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd
 #EXTINF:-1 tvg-id="Талын Монгол" tvg-name="Талын Монгол" tvg-logo="https://www.goplus.mn/images/repository/444/50444-LOGO-m.png" group-title="Монгол сувгууд",Талын Монгол
 https://cdn6.skygo.mn/live/disk1/TMGLTV/DASH-FTA/TMGLTV.mpd
-#EXTINF:-1 tvg-id="TV7" tvg-name="TV7" tvg-name="TV7" tvg-logo="https://www.goplus.mn/images/repository/189/11189-LOGO-m.png" group-title="Монгол сувгууд",TV7
+#EXTINF:-1 tvg-id="TV7" tvg-name="TV7" tvg-logo="https://www.goplus.mn/images/repository/189/11189-LOGO-m.png" group-title="Монгол сувгууд",TV7
 https://cdn3.skygo.mn/live/disk1/TV7/DASH-FTA/TV7.mpd
 #EXTINF:-1 tvg-id="Соён гэгээрүүлэгч" tvg-name="Соён гэгээрүүлэгч" tvg-logo="https://www.goplus.mn/images/repository/185/11185-LOGO-m.png" group-title="Монгол сувгууд",Соён гэгээрүүлэгч
 https://cdn3.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.mpd
-#EXTINF:-1 tvg-id="Парламент телевиз" tvg-name="Парламент телевиз" tvg-logo="https://www.goplus.mn/images/repository/845/845-LOGO-m.png" group-title="Монгол сувгууд",Парламент телевиз
+#EXTINF:-1 tvg-id="Pralament" tvg-name="Pralament" tvg-logo="https://www.goplus.mn/images/repository/845/845-LOGO-m.png" group-title="Монгол сувгууд",Парламент телевиз
 https://cdn3.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
 #EXTINF:-1 tvg-id="XTV" tvg-name="XTV" tvg-logo="https://www.goplus.mn/images/repository/204/115204-LOGO-m.png" group-title="Монгол сувгууд",XTV
 https://cdn3.skygo.mn/live/disk1/TV4/DASH-FTA/TV4.mpd
@@ -227,15 +227,15 @@ https://cdn3.skygo.mn/live/disk1/Match_Planeta/LTV-FOREIGN-DASH-FTA/Match_Planet
 
 #EXTINF:-1 tvg-id="N Spotrs" tvg-name="N Spotrs" tvg-logo="https://www.goplus.mn/images/repository/686/133686-LOGO-m.png" group-title="Sport",N Spotrs
 https://cdn3.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
-#EXTINF:-1 tvg-id="Premier Sports 1" tvg-name="Premier Sports 1" tvg-logo="https://www.goplus.mn/images/repository/680/120680-LOGO-m.png" group-title="Sport",Premier Sports 1
+#EXTINF:-1 tvg-id="PS1" tvg-name="PS1" tvg-logo="https://www.goplus.mn/images/repository/680/120680-LOGO-m.png" group-title="Sport",Premier Sports 1
 https://cdn3.skygo.mn/live/disk1/SPSPrime/STRM-CH2-1/SPSPrime.mpd
-#EXTINF:-1 tvg-id="Premier Sports 2" tvg-name="Premier Sports 2" tvg-logo="https://www.goplus.mn/images/repository/681/120681-LOGO-m.png" group-title="Sport",Premier Sports 2
+#EXTINF:-1 tvg-id="PS2" tvg-name="PS2" tvg-logo="https://www.goplus.mn/images/repository/681/120681-LOGO-m.png" group-title="Sport",Premier Sports 2
 https://cdn3.skygo.mn/live/disk1/SPSPlay/STRM-CH2-1/SPSPlay.mpd
-#EXTINF:-1 tvg-id="Premier Sports 3" tvg-name="Premier Sports 3" tvg-logo="https://www.goplus.mn/images/repository/682/120682-LOGO-m.png" group-title="Sport",Premier Sports 3
+#EXTINF:-1 tvg-id="PS3" tvg-name="PS3" tvg-logo="https://www.goplus.mn/images/repository/682/120682-LOGO-m.png" group-title="Sport",Premier Sports 3
 https://cdn3.skygo.mn/live/disk1/PSN3/STRM-CH2-1/PSN3.mpd
-#EXTINF:-1 tvg-id="Premier Sports 4" tvg-name="Premier Sports 4" tvg-logo="https://www.goplus.mn/images/repository/683/120683-LOGO-m.png" group-title="Sport",Premier Sports 4
+#EXTINF:-1 tvg-id="PS4" tvg-name="PS4" tvg-logo="https://www.goplus.mn/images/repository/683/120683-LOGO-m.png" group-title="Sport",Premier Sports 4
 https://cdn3.skygo.mn/live/disk1/SPSFight/STRM-CH2-1/SPSFight.mpd
-#EXTINF:-1 tvg-id="Premier Sports 5" tvg-name="Premier Sports 5" tvg-logo="https://www.goplus.mn/images/repository/684/120684-LOGO-m.png" group-title="Sport",Premier Sports 5
+#EXTINF:-1 tvg-id="PS5" tvg-name="PS5" tvg-logo="https://www.goplus.mn/images/repository/684/120684-LOGO-m.png" group-title="Sport",Premier Sports 5
 https://cdn4.skygo.mn/live/disk1/SPSPlus/STRM-CH2-1/SPSPlus.mpd
 
 
