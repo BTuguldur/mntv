@@ -226,17 +226,17 @@ https://cdn3.skygo.mn/live/disk1/Telecafe/LTV-FOREIGN-DASH-FTA/Telecafe.mpd
 https://cdn3.skygo.mn/live/disk1/Match_Planeta/LTV-FOREIGN-DASH-FTA/Match_Planeta.mpd
 
 #EXTINF:-1 tvg-id="N Spotrs" tvg-name="N Spotrs" tvg-logo="https://www.goplus.mn/images/repository/686/133686-LOGO-m.png" group-title="Sport",N Spotrs
-https://cdn6.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
+https://cdn3.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
 #EXTINF:-1 tvg-id="Premier Sports 1" tvg-name="Premier Sports 1" tvg-logo="https://www.goplus.mn/images/repository/680/120680-LOGO-m.png" group-title="Sport",Premier Sports 1
-https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
+https://cdn3.skygo.mn/live/disk1/SPSPrime/STRM-CH2-1/SPSPrime.mpd
 #EXTINF:-1 tvg-id="Premier Sports 2" tvg-name="Premier Sports 2" tvg-logo="https://www.goplus.mn/images/repository/681/120681-LOGO-m.png" group-title="Sport",Premier Sports 2
-https://cdn3.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
+https://cdn3.skygo.mn/live/disk1/SPSPlay/STRM-CH2-1/SPSPlay.mpd
 #EXTINF:-1 tvg-id="Premier Sports 3" tvg-name="Premier Sports 3" tvg-logo="https://www.goplus.mn/images/repository/682/120682-LOGO-m.png" group-title="Sport",Premier Sports 3
-https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd
+https://cdn3.skygo.mn/live/disk1/PSN3/STRM-CH2-1/PSN3.mpd
 #EXTINF:-1 tvg-id="Premier Sports 4" tvg-name="Premier Sports 4" tvg-logo="https://www.goplus.mn/images/repository/683/120683-LOGO-m.png" group-title="Sport",Premier Sports 4
-https://cdn3.skygo.mn/live/disk1/SPSFight/DASH-FTA/SPSFight.mpd
+https://cdn3.skygo.mn/live/disk1/SPSFight/STRM-CH2-1/SPSFight.mpd
 #EXTINF:-1 tvg-id="Premier Sports 5" tvg-name="Premier Sports 5" tvg-logo="https://www.goplus.mn/images/repository/684/120684-LOGO-m.png" group-title="Sport",Premier Sports 5
-https://cdn3.skygo.mn/live/disk1/SPSPlus/DASH-FTA/SPSPlus.mpd
+https://cdn4.skygo.mn/live/disk1/SPSPlus/STRM-CH2-1/SPSPlus.mpd
 
 
 
@@ -452,16 +452,16 @@ https://cdn4.skygo.mn/vod/disk1/WarOfTheWorlds03/_/VOD-FOREIGN-DASH-FTA/WarOfThe
 #EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Stalingrad
 https://cdn5.skygo.mn/vod/disk1/Stalingrad03/_/VOD-FOREIGN-DASH-FTA/Stalingrad03.mpd
 #EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",RedSparrow
-https://cdn6.skygo.mn/vod/disk1/RedSparrow03/_/VOD-FOREIGN-DASH-FTA/RedSparrow03.mpd
+https://cdn3.skygo.mn/vod/disk1/RedSparrow03/_/VOD-FOREIGN-DASH-FTA/RedSparrow03.mpd
 #EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",FiftyShadesOfGrey
-https://cdn6.skygo.mn/vod/disk1/FiftyShadesOfGrey03/_/VOD-FOREIGN-DASH-FTA/FiftyShadesOfGrey03.mpd
+https://cdn3.skygo.mn/vod/disk1/FiftyShadesOfGrey03/_/VOD-FOREIGN-DASH-FTA/FiftyShadesOfGrey03.mpd
 #EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",FifthyShadesFreed
-https://cdn5.skygo.mn/vod/disk1/FifthyShadesFreed03/_/VOD-FOREIGN-DASH-FTA/FifthyShadesFreed03.mpd
+https://cdn3.skygo.mn/vod/disk1/FifthyShadesFreed03/_/VOD-FOREIGN-DASH-FTA/FifthyShadesFreed03.mpd
 #EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",FiftyShadesDarker
-https://cdn6.skygo.mn/vod/disk1/FiftyShadesDarker201703/_/VOD-FOREIGN-DASH-FTA/FiftyShadesDarker201703.mpd
+https://cdn3.skygo.mn/vod/disk1/FiftyShadesDarker201703/_/VOD-FOREIGN-DASH-FTA/FiftyShadesDarker201703.mpd
 #EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Fury
 https://cdn4.skygo.mn/vod/disk1/Fury03/_/VOD-FOREIGN-DASH-FTA/Fury03.mpd
 #EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",MinistryofUngentlemanlyWarfare
-https://cdn6.skygo.mn/vod/disk1/MinistryofUngentlemanlyWarfare03/_/VOD-FOREIGN-DASH-FTA/MinistryofUngentlemanlyWarfare03.mpd
+https://cdn3.skygo.mn/vod/disk1/MinistryofUngentlemanlyWarfare03/_/VOD-FOREIGN-DASH-FTA/MinistryofUngentlemanlyWarfare03.mpd
  
 #EXT-X-ENDLIST
