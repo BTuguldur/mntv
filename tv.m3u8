@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/BTuguldur/epgmn/refs/heads/main/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/BTuguldur/epgmn/refs/heads/main/epg_today.xml"
 #EXTINF:-1 tvg-id="GoPlus" tvg-name="GoPlus" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Монгол сувгууд",GoPlus
 https://cdn3.skygo.mn/live/disk1/Skymedia/DASH-FTA/Skymedia.mpd
 #EXTINF:-1 tvg-id="MNPlus" tvg-name="MNPlus" tvg-logo="https://www.goplus.mn/images/repository/886/886-LOGO-m.png" group-title="Монгол сувгууд",MNPlus
