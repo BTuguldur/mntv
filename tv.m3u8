@@ -296,7 +296,7 @@ http://192.142.57.168:8080/live/MLS003/qZj4zbPNDn/104813.m3u8
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="EXXXotica" tvg-name="EXXXotica" tvg-logo="https://archive.org/download/Exxxotica/Exxxotica.png" group-title="Adult",EXXXotica
 http://31.148.48.15/O-la-la/index.m3u8
-#EXTINF:-1 tvg-id="EXXXotica" tvg-name="EXXXotica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/N1_Logo_2007%2C_Red.png" group-title="Adult",N1 ADULT
+#EXTINF:-1 tvg-id="EXXXotica" tvg-name="EXXXotica" tvg-logo="https://ingimarson.is/wp-content/uploads/2017/01/n1-logorautt.png" group-title="Adult",N1 ADULT
 http://185.255.120.120:8080/live/MLS003/qZj4zbPNDn/104811.m3u8
 #EXTINF:-1 tvg-id="EXXXotica" tvg-name="EXXXotica" tvg-logo="http://betatv.by/thumb/2/qoCKeNsGvowlo94Ur2dd7Q/230c230/d/russkaya_noch_2018.png" group-title="Adult",Russkaya Noch
 http://31.148.48.15/Russkaya_Noch/playlist.m3u8
