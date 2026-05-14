@@ -273,7 +273,7 @@ https://10st.vcast.im/MYASIATV/TV5/playlist.m3u8
 #EXTINF:-1 tvg-id="Babes TV" tvg-name="Babes TV" tvg-logo="https://www.goplus.mn/images/repository/797/102797-LOGO-m.png" group-title="Adult",Babes TV
 https://cdn3.skygo.mn/live/disk1/Babes/LTV-FOREIGN-DASH-FTA/Babes.mpd 
 #EXTINF:-1 tvg-id="Babes" tvg-name="Babes" tvg-logo="https://www.goplus.mn/images/repository/797/102797-LOGO-m.png" group-title="Adult",Babes
-http://daytimetechnologies.com:80/Bowed8Permit/qCSDy5AJJt/656013
+	http://bgdc.live:25461/nmullen144/73970570/204217
 #EXTINF:-1 tvg-id="Babes" tvg-name="Babes" tvg-logo="https://i.imgur.com/ea9jGx1.png" group-title="Adult",Banana HD
 http://125.227.210.55:1009/VideoInput/play.ts
 #EXTINF:-1 tvg-id="topsecret" tvg-name="topsecret" tvg-logo="https://adult-tv-channels.click/assets/images/secret-cercle-tv-logo.png" group-title="Adult",Secret Circle
