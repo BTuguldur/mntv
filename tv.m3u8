@@ -272,21 +272,11 @@ https://10st.vcast.im/MYASIATV/TV5/playlist.m3u8
  
 #EXTINF:-1 tvg-id="Babes TV" tvg-name="Babes TV" tvg-logo="https://www.goplus.mn/images/repository/797/102797-LOGO-m.png" group-title="Adult",Babes TV
 https://cdn3.skygo.mn/live/disk1/Babes/LTV-FOREIGN-DASH-FTA/Babes.mpd 
-#EXTINF:-1 tvg-id="Babes" tvg-name="Babes" tvg-logo="https://www.goplus.mn/images/repository/797/102797-LOGO-m.png" group-title="Adult",Babes
-	http://bgdc.live:25461/nmullen144/73970570/204217
+#EXTINF:-1 tvg-id="Babes TV" tvg-name="Babes TV" tvg-logo="https://www.goplus.mn/images/repository/797/102797-LOGO-m.png" group-title="Adult",Babes TV
+http://ru.iptv.monster/play/1768/manifest.m3u8?token=623939143BE8A4B
 #EXTINF:-1 tvg-id="Babes" tvg-name="Babes" tvg-logo="https://i.imgur.com/ea9jGx1.png" group-title="Adult",Banana HD
 http://125.227.210.55:1009/VideoInput/play.ts
-#EXTINF:-1 tvg-id="topsecret" tvg-name="topsecret" tvg-logo="https://adult-tv-channels.click/assets/images/secret-cercle-tv-logo.png" group-title="Adult",Secret Circle
-http://daytimetechnologies.com:80/Bowed8Permit/qCSDy5AJJt/656015
-#EXTINF:-1 tvg-id="N1" tvg-name="N1" tvg-logo="https://i.imgur.com/TgWa0TN.png" group-title="Adult",Beate Uhse
-http://daytimetechnologies.com:80/Bowed8Permit/qCSDy5AJJt/656016
 
-#EXTINF:-1 tvg-id="Primmafila" tvg-name="Babes" tvg-logo="https://i.imgur.com/8B2SrKW.png" group-title="Adult",bang U
-http://daytimetechnologies.com:80/Bowed8Permit/qCSDy5AJJt/655994
-#EXTINF:-1 tvg-id="Primmafila" tvg-name="Babes" tvg-logo="https://www.passionxxx.net/img/logo@2x.png" group-title="Adult",Passion XXX
-http://daytimetechnologies.com:80/Bowed8Permit/qCSDy5AJJt/655987
-#EXTINF:-1 tvg-id="Primmafila" tvg-name="Babes" tvg-logo="https://i.imgur.com/aduWBdE.png" group-title="Adult",boob
-http://daytimetechnologies.com:80/Bowed8Permit/qCSDy5AJJt/656041
 #EXTINF:-1 tvg-id="Desire" tvg-name="Desire" tvg-logo="https://adult-tv-channels.click/assets/images/desire-tv.png" group-title="Adult",Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="EXXXotica" tvg-name="EXXXotica" tvg-logo="https://archive.org/download/Exxxotica/Exxxotica.png" group-title="Adult",EXXXotica
@@ -307,8 +297,6 @@ http://78.130.250.2:8023/play/a03h/index.m3u8
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Nuart" tvg-name="Nuart" tvg-logo="https://epg.iptvx.one/picons/nuart-tv.png" group-title="Adult",Nuart
-http://daytimetechnologies.com:80/Bowed8Permit/qCSDy5AJJt/656004
 
 #EXTINF:-1 tvg-id="MyCam Blonde (720p)" tvg-name="MyCam Blonde (720p)" tvg-logo="https://play-lh.googleusercontent.com/aS49uYmwDcpKpMD_IHjTz288qx2wUk4InTzZHqFZ_yBefnLMcNKGh3C0w5Gg55VzhQI=s192-rw" group-title="Adult",MyCam Blonde (720p)
 http://cdn.adultiptv.net/blonde.m3u8
