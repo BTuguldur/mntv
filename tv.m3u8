@@ -217,6 +217,8 @@ https://cdn3.skygo.mn/live/disk1/Channel_5/LTV-FOREIGN-DASH-FTA/Channel_5.mpd
 https://cdn3.skygo.mn/live/disk1/Telecafe/LTV-FOREIGN-DASH-FTA/Telecafe.mpd
 #EXTINF:-1 tvg-id="Матч!Планета" tvg-name="Матч!Планета" tvg-logo="https://www.goplus.mn/images/repository/177/11177-LOGO-m.png" group-title="Opoc", Матч!Планета
 https://cdn3.skygo.mn/live/disk1/Match_Planeta/LTV-FOREIGN-DASH-FTA/Match_Planeta.mpd
+#EXTINF:-1 tvg-id="Матч!Планета" tvg-name="Матч!Планета" tvg-logo="https://www.goplus.mn/images/repository/177/11177-LOGO-m.png" group-title="Opoc", Матч!
+http://5.188.221.43:8080/play/match
 
 #EXTINF:-1 tvg-id="N Spotrs" tvg-name="N Spotrs" tvg-logo="https://www.goplus.mn/images/repository/686/133686-LOGO-m.png" group-title="Sport",N Spotrs
 https://cdn3.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
