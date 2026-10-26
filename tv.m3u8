@@ -117,6 +117,10 @@ https://cdn3.skygo.mn/live/disk1/AnimalPlanet/LTV-FOREIGN-DASH-FTA/AnimalPlanet.
 
 #EXTINF:-1 tvg-id="124" tvg-name="CGTN Documentary" tvg-logo="https://www.goplus.mn/images/repository/076/15076-LOGO-m.png" group-title="Gadaad", CGTN Documentary
 https://cdn3.skygo.mn/live/disk1/CGTN_Doc/LTV-FOREIGN-DASH-FTA/CGTN_Doc.mpd
+#EXTINF:-1 tvg-id="208" tvg-name="HGTV" tvg-logo="https://www.goplus.mn/images/repository/582/162582-LOGO-m.png" group-title="Gadaad", HGTV
+https://cdn.skygo.mn/live/disk1/HGTV/LTV-FOREIGN-DASH-FTA/HGTV.mpd
+#EXTINF:-1 tvg-id="209" tvg-name="Food network" tvg-logo="https://www.goplus.mn/images/repository/584/162584-LOGO-m.png" group-title="Gadaad", Food Network
+https://cdn.skygo.mn/live/disk1/Foodnetwork/LTV-FOREIGN-DASH-FTA/Foodnetwork.mpd
 #EXTINF:-1 tvg-id="036" tvg-name="Trace Urban" tvg-logo="https://www.goplus.mn/images/repository/875/875-LOGO-m.png" group-title="Gadaad", Trace Urban
 https://cdn3.skygo.mn/live/disk1/Trace_Urban/LTV-FOREIGN-DASH-FTA/Trace_Urban.mpd
 #EXTINF:-1 tvg-id="FasionTv" tvg-name="FasionTv" tvg-logo="https://www.goplus.mn/images/repository/101/146101-LOGO-m.png" group-title="Gadaad",CTC Love
@@ -138,8 +142,12 @@ https://cdn3.skygo.mn/live/disk1/BBC_News/LTV-FOREIGN-DASH-FTA/BBC_News.mpd
 https://cdn3.skygo.mn/live/disk1/CNNi/LTV-FOREIGN-DASH-FTA/CNNi.mpd
 #EXTINF:-1 tvg-id="049" tvg-name="NHK World" tvg-logo="https://www.goplus.mn/images/repository/873/873-LOGO-m.png" group-title="Gadaad",NHK World
 https://cdn3.skygo.mn/live/disk1/NHK_World/LTV-FOREIGN-DASH-FTA/NHK_World.mpd
-
-
+#EXTINF:-1 tvg-id="133" tvg-name="Rai Italia" tvg-logo="https://www.goplus.mn/images/repository/499/157499-LOGO-m.png" group-title="Gadaad",Rai Italia
+https://cdn.skygo.mn/live/disk1/Rai_Italia/LTV-FOREIGN-DASH-FTA/Rai_Italia.mpd
+#EXTINF:-1 tvg-id="976" tvg-name="Qazaqstan" tvg-logo="https://www.goplus.mn/images/repository/272/162272-LOGO-m.png" group-title="Gadaad",Qazaqstan
+https://cdn.skygo.mn/live/disk1/Qazaqstan/LTV-FOREIGN-DASH-FTA/Qazaqstan.mpd
+#EXTINF:-1 tvg-id="974" tvg-name="24KZ" tvg-logo="https://www.goplus.mn/images/repository/347/162347-LOGO-m.png" group-title="Gadaad",24KZ
+https://cdn.skygo.mn/live/disk1/24KZ/LTV-FOREIGN-DASH-FTA/24KZ.mpd
 
 #EXTINF:-1 tvg-name="GB News" tvg-logo="https://media.info/l/o/7/7421.1617213289.png" tvg-id="GBNews.uk" group-title="Gadaad",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
@@ -185,6 +193,8 @@ http://1tv41.icu:8080/2035261604/Lyriknisha1@gmail.com/17772
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg" group-title="Gadaad",HBO SIGNATURE
 http://1tv41.icu:8080/2035261604/Lyriknisha1@gmail.com/9266
 
+#EXTINF:-1 tvg-id="132" tvg-name="OPT" tvg-logo="https://www.goplus.mn/images/repository/490/157490-LOGO-m.png" group-title="Opoc", Russia RTR
+https://cdn.skygo.mn/live/disk1/Russia_RTR/LTV-FOREIGN-DASH-FTA/Russia_RTR.mpd
 #EXTINF:-1 tvg-id="056" tvg-name="OPT" tvg-logo="https://www.goplus.mn/images/repository/854/854-LOGO-m.png" group-title="Opoc", OPT
 https://cdn3.skygo.mn/live/disk1/ORt/LTV-FOREIGN-DASH-FTA/ORt.mpd
 #EXTINF:-1 tvg-id="122" tvg-name="ТВЦ" tvg-logo="https://www.goplus.mn/images/repository/191/11191-LOGO-m.png" group-title="Opoc", ТВЦ
@@ -234,8 +244,8 @@ https://cdn3.skygo.mn/live/disk1/PSN3/STRM-CH2-1/PSN3.mpd
 https://cdn3.skygo.mn/live/disk1/SPSFight/STRM-CH2-1/SPSFight.mpd
 #EXTINF:-1 tvg-id="038" tvg-name="PS5" tvg-logo="https://www.goplus.mn/images/repository/684/120684-LOGO-m.png" group-title="Sport",Premier Sports 5
 https://cdn4.skygo.mn/live/disk1/SPSPlus/STRM-CH2-1/SPSPlus.mpd
-
-
+#EXTINF:-1 tvg-id="617" tvg-name="Eurosport" tvg-logo="https://www.goplus.mn/images/repository/720/162720-LOGO-m.png" group-title="Sport",Eurosport
+https://cdn.skygo.mn/live/disk1/Eurosport/LTV-FOREIGN-DASH-FTA/Eurosport.mpd
 
 #EXTINF:-1 tvg-id="800" tvg-name="MoonBug" tvg-logo="https://www.goplus.mn/images/repository/976/111976-LOGO-m.png" group-title="Cartoon", MoonBug
 https://cdn3.skygo.mn/live/disk1/Moonbug/LTV-FOREIGN-DASH-FTA/Moonbug.mpd
@@ -253,7 +263,8 @@ https://cdn3.skygo.mn/live/disk1/O_Int/LTV-FOREIGN-DASH-FTA/O_Int.mpd
 https://cdn3.skygo.mn/live/disk1/CCTV-14/LTV-FOREIGN-DASH-FTA/CCTV-14.mpd
 #EXTINF:-1 tvg-id="058" tvg-name="Карусель" tvg-logo="https://www.goplus.mn/images/repository/880/880-LOGO-m.png" group-title="Cartoon", Карусель
 https://cdn3.skygo.mn/live/disk1/Karusel/LTV-FOREIGN-DASH-FTA/Karusel.mpd
-
+#EXTINF:-1 tvg-id="977" tvg-name="Карусель" tvg-logo="https://www.goplus.mn/images/repository/551/164551-LOGO-m.png" group-title="Cartoon", Duck TV
+https://cdn.skygo.mn/live/disk1/Duck/LTV-FOREIGN-DASH-FTA/Duck.mpd
 
 
 #EXTINF:-1 tvg-id="002" tvg-name="Монголын Үндэсний Олон Нийтийн Телевиз /web/" tvg-logo="https://www.mnb.mn/images/mini/tv.png" group-title="Монгол сувгууд",Монголын Үндэсний Олон Нийтийн Телевиз /web/
